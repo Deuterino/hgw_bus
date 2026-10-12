@@ -253,7 +253,9 @@ function renderJourney(j) {
     row.append(el("div", "meta", (leg.alightTime - leg.boardTime) + " min, " + leg.nStops + (leg.nStops === 1 ? " stop" : " stops")
                                  + ", direction " + leg.direction.split(" -> ").pop()));
     card.append(row);
-    if (leg.note) card.append(el("div", "note", "Note " + leg.note));
+    // footnote A (no service on 24.12. and 31.12.) is left out
+    const note = leg.note.split("; ").filter(part => !part.startsWith("A: ")).join("; ");
+    if (note) card.append(el("div", "note", "Note " + note));
   });
   return card;
 }

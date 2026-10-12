@@ -220,8 +220,10 @@ def describe(journey, rank=None):
         lines.append(f"      Linie {leg.line:<3} {fmt(leg.board_time)} {leg.board_stop} -> {fmt(leg.alight_time)} "
                      f"{leg.alight_stop}   ({leg.alight_time - leg.board_time} min, {leg.n_stops} stops, "
                      f"direction {leg.direction.split(' -> ')[-1]})")
-        if leg.note:
-            lines.append(f"            note {leg.note}")
+        # footnote A (no service on 24.12. and 31.12.) is left out
+        note = "; ".join(part for part in leg.note.split("; ") if not part.startswith("A: "))
+        if note:
+            lines.append(f"            note {note}")
     return "\n".join(lines)
 
 # %% Compute

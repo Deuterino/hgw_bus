@@ -1,0 +1,1554 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,0,Bahnhof Süd,05:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,1,Nelkenweg,05:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,2,Hans-Beimler-Straße,05:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,3,Gerhardt-Katsch-Straße,05:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,4,Franz-Mehring-Straße,05:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,5,Am Grünland,05:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,6,Landratsamt,05:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,7,Feldstraße,05:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,8,Neunmorgenstraße,05:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,9,Gützkower Straße,05:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,10,Stephanistraße,06:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,11,Hansering,06:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,12,Knopfstraße,06:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,13,Rathaus,06:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,14,Bahnhofstraße,06:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c01,15,ZOB,06:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,0,Bahnhof Süd,06:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,1,Nelkenweg,06:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,2,Hans-Beimler-Straße,06:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,3,Gerhardt-Katsch-Straße,06:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,4,Franz-Mehring-Straße,06:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,5,Am Grünland,06:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,6,Landratsamt,06:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,7,Feldstraße,06:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,8,Neunmorgenstraße,06:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,9,Gützkower Straße,06:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,10,Stephanistraße,06:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,11,Hansering,06:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,12,Knopfstraße,06:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,13,Rathaus,06:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,14,Bahnhofstraße,06:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c02,15,ZOB,06:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,0,Bahnhof Süd,06:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,1,Nelkenweg,06:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,2,Hans-Beimler-Straße,06:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,3,Gerhardt-Katsch-Straße,06:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,4,Franz-Mehring-Straße,06:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,5,Am Grünland,06:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,6,Landratsamt,06:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,7,Feldstraße,06:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,8,Neunmorgenstraße,06:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,9,Gützkower Straße,06:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,10,Stephanistraße,07:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,11,Hansering,07:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,12,Knopfstraße,07:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,13,Rathaus,07:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,14,Bahnhofstraße,07:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c03,15,ZOB,07:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,0,Bahnhof Süd,07:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,1,Nelkenweg,07:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,2,Hans-Beimler-Straße,07:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,3,Gerhardt-Katsch-Straße,07:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,4,Franz-Mehring-Straße,07:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,5,Am Grünland,07:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,6,Landratsamt,07:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,7,Feldstraße,07:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,8,Neunmorgenstraße,07:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,9,Gützkower Straße,07:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,10,Stephanistraße,07:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,11,Hansering,07:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,12,Knopfstraße,07:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,13,Rathaus,07:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,14,Bahnhofstraße,07:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c04,15,ZOB,07:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,0,Bahnhof Süd,07:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,1,Nelkenweg,07:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,2,Hans-Beimler-Straße,07:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,3,Gerhardt-Katsch-Straße,07:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,4,Franz-Mehring-Straße,07:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,5,Am Grünland,07:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,6,Landratsamt,07:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,7,Feldstraße,07:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,8,Neunmorgenstraße,07:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,9,Gützkower Straße,07:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,10,Stephanistraße,08:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,11,Hansering,08:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,12,Knopfstraße,08:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,13,Rathaus,08:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,14,Bahnhofstraße,08:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c05,15,ZOB,08:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,0,Bahnhof Süd,08:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,1,Nelkenweg,08:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,2,Hans-Beimler-Straße,08:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,3,Gerhardt-Katsch-Straße,08:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,4,Franz-Mehring-Straße,08:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,5,Am Grünland,08:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,6,Landratsamt,08:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,7,Feldstraße,08:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,8,Neunmorgenstraße,08:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,9,Gützkower Straße,08:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,10,Stephanistraße,08:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,11,Hansering,08:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,12,Knopfstraße,08:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,13,Rathaus,08:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,14,Bahnhofstraße,08:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c06,15,ZOB,08:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,0,Bahnhof Süd,08:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,1,Nelkenweg,08:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,2,Hans-Beimler-Straße,08:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,3,Gerhardt-Katsch-Straße,08:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,4,Franz-Mehring-Straße,08:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,5,Am Grünland,08:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,6,Landratsamt,08:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,7,Feldstraße,08:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,8,Neunmorgenstraße,08:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,9,Gützkower Straße,08:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,10,Stephanistraße,09:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,11,Hansering,09:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,12,Knopfstraße,09:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,13,Rathaus,09:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,14,Bahnhofstraße,09:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c07,15,ZOB,09:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,0,Bahnhof Süd,09:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,1,Nelkenweg,09:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,2,Hans-Beimler-Straße,09:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,3,Gerhardt-Katsch-Straße,09:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,4,Franz-Mehring-Straße,09:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,5,Am Grünland,09:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,6,Landratsamt,09:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,7,Feldstraße,09:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,8,Neunmorgenstraße,09:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,9,Gützkower Straße,09:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,10,Stephanistraße,09:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,11,Hansering,09:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,12,Knopfstraße,09:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,13,Rathaus,09:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,14,Bahnhofstraße,09:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c08,15,ZOB,09:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,0,Bahnhof Süd,09:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,1,Nelkenweg,09:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,2,Hans-Beimler-Straße,09:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,3,Gerhardt-Katsch-Straße,09:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,4,Franz-Mehring-Straße,09:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,5,Am Grünland,09:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,6,Landratsamt,09:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,7,Feldstraße,09:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,8,Neunmorgenstraße,09:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,9,Gützkower Straße,09:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,10,Stephanistraße,10:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,11,Hansering,10:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,12,Knopfstraße,10:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,13,Rathaus,10:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,14,Bahnhofstraße,10:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c09,15,ZOB,10:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,0,Bahnhof Süd,10:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,1,Nelkenweg,10:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,2,Hans-Beimler-Straße,10:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,3,Gerhardt-Katsch-Straße,10:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,4,Franz-Mehring-Straße,10:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,5,Am Grünland,10:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,6,Landratsamt,10:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,7,Feldstraße,10:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,8,Neunmorgenstraße,10:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,9,Gützkower Straße,10:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,10,Stephanistraße,10:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,11,Hansering,10:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,12,Knopfstraße,10:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,13,Rathaus,10:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,14,Bahnhofstraße,10:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c10,15,ZOB,10:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,0,Bahnhof Süd,10:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,1,Nelkenweg,10:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,2,Hans-Beimler-Straße,10:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,3,Gerhardt-Katsch-Straße,10:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,4,Franz-Mehring-Straße,10:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,5,Am Grünland,10:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,6,Landratsamt,10:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,7,Feldstraße,10:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,8,Neunmorgenstraße,10:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,9,Gützkower Straße,10:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,10,Stephanistraße,11:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,11,Hansering,11:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,12,Knopfstraße,11:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,13,Rathaus,11:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,14,Bahnhofstraße,11:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c11,15,ZOB,11:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,0,Bahnhof Süd,11:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,1,Nelkenweg,11:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,2,Hans-Beimler-Straße,11:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,3,Gerhardt-Katsch-Straße,11:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,4,Franz-Mehring-Straße,11:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,5,Am Grünland,11:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,6,Landratsamt,11:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,7,Feldstraße,11:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,8,Neunmorgenstraße,11:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,9,Gützkower Straße,11:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,10,Stephanistraße,11:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,11,Hansering,11:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,12,Knopfstraße,11:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,13,Rathaus,11:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,14,Bahnhofstraße,11:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c12,15,ZOB,11:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,0,Bahnhof Süd,11:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,1,Nelkenweg,11:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,2,Hans-Beimler-Straße,11:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,3,Gerhardt-Katsch-Straße,11:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,4,Franz-Mehring-Straße,11:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,5,Am Grünland,11:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,6,Landratsamt,11:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,7,Feldstraße,11:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,8,Neunmorgenstraße,11:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,9,Gützkower Straße,11:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,10,Stephanistraße,12:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,11,Hansering,12:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,12,Knopfstraße,12:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,13,Rathaus,12:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,14,Bahnhofstraße,12:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c13,15,ZOB,12:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,0,Bahnhof Süd,12:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,1,Nelkenweg,12:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,2,Hans-Beimler-Straße,12:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,3,Gerhardt-Katsch-Straße,12:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,4,Franz-Mehring-Straße,12:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,5,Am Grünland,12:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,6,Landratsamt,12:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,7,Feldstraße,12:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,8,Neunmorgenstraße,12:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,9,Gützkower Straße,12:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,10,Stephanistraße,12:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,11,Hansering,12:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,12,Knopfstraße,12:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,13,Rathaus,12:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,14,Bahnhofstraße,12:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c14,15,ZOB,12:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,0,Bahnhof Süd,12:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,1,Nelkenweg,12:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,2,Hans-Beimler-Straße,12:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,3,Gerhardt-Katsch-Straße,12:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,4,Franz-Mehring-Straße,12:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,5,Am Grünland,12:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,6,Landratsamt,12:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,7,Feldstraße,12:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,8,Neunmorgenstraße,12:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,9,Gützkower Straße,12:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,10,Stephanistraße,13:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,11,Hansering,13:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,12,Knopfstraße,13:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,13,Rathaus,13:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,14,Bahnhofstraße,13:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c15,15,ZOB,13:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,0,Bahnhof Süd,13:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,1,Nelkenweg,13:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,2,Hans-Beimler-Straße,13:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,3,Gerhardt-Katsch-Straße,13:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,4,Franz-Mehring-Straße,13:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,5,Am Grünland,13:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,6,Landratsamt,13:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,7,Feldstraße,13:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,8,Neunmorgenstraße,13:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,9,Gützkower Straße,13:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,10,Stephanistraße,13:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,11,Hansering,13:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,12,Knopfstraße,13:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,13,Rathaus,13:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,14,Bahnhofstraße,13:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c16,15,ZOB,13:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,0,Bahnhof Süd,13:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,1,Nelkenweg,13:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,2,Hans-Beimler-Straße,13:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,3,Gerhardt-Katsch-Straße,13:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,4,Franz-Mehring-Straße,13:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,5,Am Grünland,13:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,6,Landratsamt,13:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,7,Feldstraße,13:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,8,Neunmorgenstraße,13:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,9,Gützkower Straße,13:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,10,Stephanistraße,14:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,11,Hansering,14:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,12,Knopfstraße,14:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,13,Rathaus,14:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,14,Bahnhofstraße,14:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t1c17,15,ZOB,14:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,0,Bahnhof Süd,14:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,1,Nelkenweg,14:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,2,Hans-Beimler-Straße,14:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,3,Gerhardt-Katsch-Straße,14:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,4,Franz-Mehring-Straße,14:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,5,Am Grünland,14:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,6,Landratsamt,14:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,7,Feldstraße,14:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,8,Neunmorgenstraße,14:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,9,Gützkower Straße,14:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,10,Stephanistraße,14:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,11,Hansering,14:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,12,Knopfstraße,14:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,13,Rathaus,14:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,14,Bahnhofstraße,14:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c01,15,ZOB,14:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,0,Bahnhof Süd,14:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,1,Nelkenweg,14:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,2,Hans-Beimler-Straße,14:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,3,Gerhardt-Katsch-Straße,14:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,4,Franz-Mehring-Straße,14:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,5,Am Grünland,14:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,6,Landratsamt,14:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,7,Feldstraße,14:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,8,Neunmorgenstraße,14:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,9,Gützkower Straße,14:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,10,Stephanistraße,15:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,11,Hansering,15:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,12,Knopfstraße,15:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,13,Rathaus,15:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,14,Bahnhofstraße,15:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c02,15,ZOB,15:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,0,Bahnhof Süd,15:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,1,Nelkenweg,15:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,2,Hans-Beimler-Straße,15:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,3,Gerhardt-Katsch-Straße,15:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,4,Franz-Mehring-Straße,15:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,5,Am Grünland,15:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,6,Landratsamt,15:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,7,Feldstraße,15:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,8,Neunmorgenstraße,15:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,9,Gützkower Straße,15:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,10,Stephanistraße,15:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,11,Hansering,15:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,12,Knopfstraße,15:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,13,Rathaus,15:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,14,Bahnhofstraße,15:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c03,15,ZOB,15:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,0,Bahnhof Süd,15:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,1,Nelkenweg,15:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,2,Hans-Beimler-Straße,15:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,3,Gerhardt-Katsch-Straße,15:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,4,Franz-Mehring-Straße,15:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,5,Am Grünland,15:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,6,Landratsamt,15:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,7,Feldstraße,15:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,8,Neunmorgenstraße,15:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,9,Gützkower Straße,15:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,10,Stephanistraße,16:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,11,Hansering,16:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,12,Knopfstraße,16:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,13,Rathaus,16:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,14,Bahnhofstraße,16:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c04,15,ZOB,16:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,0,Bahnhof Süd,16:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,1,Nelkenweg,16:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,2,Hans-Beimler-Straße,16:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,3,Gerhardt-Katsch-Straße,16:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,4,Franz-Mehring-Straße,16:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,5,Am Grünland,16:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,6,Landratsamt,16:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,7,Feldstraße,16:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,8,Neunmorgenstraße,16:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,9,Gützkower Straße,16:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,10,Stephanistraße,16:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,11,Hansering,16:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,12,Knopfstraße,16:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,13,Rathaus,16:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,14,Bahnhofstraße,16:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c05,15,ZOB,16:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,0,Bahnhof Süd,16:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,1,Nelkenweg,16:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,2,Hans-Beimler-Straße,16:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,3,Gerhardt-Katsch-Straße,16:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,4,Franz-Mehring-Straße,16:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,5,Am Grünland,16:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,6,Landratsamt,16:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,7,Feldstraße,16:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,8,Neunmorgenstraße,16:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,9,Gützkower Straße,16:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,10,Stephanistraße,17:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,11,Hansering,17:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,12,Knopfstraße,17:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,13,Rathaus,17:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,14,Bahnhofstraße,17:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c06,15,ZOB,17:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,0,Bahnhof Süd,17:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,1,Nelkenweg,17:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,2,Hans-Beimler-Straße,17:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,3,Gerhardt-Katsch-Straße,17:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,4,Franz-Mehring-Straße,17:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,5,Am Grünland,17:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,6,Landratsamt,17:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,7,Feldstraße,17:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,8,Neunmorgenstraße,17:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,9,Gützkower Straße,17:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,10,Stephanistraße,17:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,11,Hansering,17:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,12,Knopfstraße,17:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,13,Rathaus,17:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,14,Bahnhofstraße,17:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c07,15,ZOB,17:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,0,Bahnhof Süd,17:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,1,Nelkenweg,17:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,2,Hans-Beimler-Straße,17:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,3,Gerhardt-Katsch-Straße,17:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,4,Franz-Mehring-Straße,17:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,5,Am Grünland,17:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,6,Landratsamt,17:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,7,Feldstraße,17:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,8,Neunmorgenstraße,17:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,9,Gützkower Straße,17:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,10,Stephanistraße,18:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,11,Hansering,18:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,12,Knopfstraße,18:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,13,Rathaus,18:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,14,Bahnhofstraße,18:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c08,15,ZOB,18:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,0,Bahnhof Süd,18:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,1,Nelkenweg,18:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,2,Hans-Beimler-Straße,18:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,3,Gerhardt-Katsch-Straße,18:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,4,Franz-Mehring-Straße,18:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,5,Am Grünland,18:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,6,Landratsamt,18:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,7,Feldstraße,18:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,8,Neunmorgenstraße,18:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,9,Gützkower Straße,18:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,10,Stephanistraße,18:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,11,Hansering,18:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,12,Knopfstraße,18:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,13,Rathaus,18:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,14,Bahnhofstraße,18:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c09,15,ZOB,18:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,0,Bahnhof Süd,18:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,1,Nelkenweg,18:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,2,Hans-Beimler-Straße,18:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,3,Gerhardt-Katsch-Straße,18:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,4,Franz-Mehring-Straße,18:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,5,Am Grünland,18:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,6,Landratsamt,18:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,7,Feldstraße,18:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,8,Neunmorgenstraße,18:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,9,Gützkower Straße,18:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,10,Stephanistraße,19:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,11,Hansering,19:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,12,Knopfstraße,19:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,13,Rathaus,19:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,14,Bahnhofstraße,19:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c10,15,ZOB,19:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,0,Bahnhof Süd,19:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,1,Nelkenweg,19:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,2,Hans-Beimler-Straße,19:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,3,Gerhardt-Katsch-Straße,19:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,4,Franz-Mehring-Straße,19:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,5,Am Grünland,19:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,6,Landratsamt,19:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,7,Feldstraße,19:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,8,Neunmorgenstraße,19:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,9,Gützkower Straße,19:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,10,Stephanistraße,19:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,11,Hansering,19:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,12,Knopfstraße,19:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,13,Rathaus,19:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,14,Bahnhofstraße,19:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c11,15,ZOB,19:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,0,Bahnhof Süd,19:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,1,Nelkenweg,19:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,2,Hans-Beimler-Straße,19:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,3,Gerhardt-Katsch-Straße,19:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,4,Franz-Mehring-Straße,19:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,5,Am Grünland,19:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,6,Landratsamt,19:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,7,Feldstraße,19:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,8,Neunmorgenstraße,19:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,9,Gützkower Straße,19:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,10,Stephanistraße,20:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,11,Hansering,20:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,12,Knopfstraße,20:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,13,Rathaus,20:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,14,Bahnhofstraße,20:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c12,15,ZOB,20:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,0,Bahnhof Süd,20:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,1,Nelkenweg,20:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,2,Hans-Beimler-Straße,20:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,3,Gerhardt-Katsch-Straße,20:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,4,Franz-Mehring-Straße,20:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,5,Am Grünland,20:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,6,Landratsamt,20:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,7,Feldstraße,20:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,8,Neunmorgenstraße,20:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,9,Gützkower Straße,20:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,10,Stephanistraße,20:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,11,Hansering,20:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,12,Knopfstraße,20:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,13,Rathaus,20:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,14,Bahnhofstraße,20:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c13,15,ZOB,20:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,0,Bahnhof Süd,20:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,1,Nelkenweg,20:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,2,Hans-Beimler-Straße,20:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,3,Gerhardt-Katsch-Straße,20:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,4,Franz-Mehring-Straße,20:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,5,Am Grünland,20:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,6,Landratsamt,20:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,7,Feldstraße,20:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,8,Neunmorgenstraße,20:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,9,Gützkower Straße,20:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,10,Stephanistraße,21:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,11,Hansering,21:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,12,Knopfstraße,21:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,13,Rathaus,21:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,14,Bahnhofstraße,21:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c14,15,ZOB,21:09,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,0,Bahnhof Süd,21:14,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,1,Nelkenweg,21:16,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,2,Hans-Beimler-Straße,21:17,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,3,Gerhardt-Katsch-Straße,21:18,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,4,Franz-Mehring-Straße,21:19,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,5,Am Grünland,21:22,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,6,Landratsamt,21:24,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,7,Feldstraße,21:26,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,8,Neunmorgenstraße,21:27,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,9,Gützkower Straße,21:28,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,10,Stephanistraße,21:30,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,11,Hansering,21:32,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,12,Knopfstraße,21:34,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,13,Rathaus,21:35,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,14,Bahnhofstraße,21:37,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c15,15,ZOB,21:39,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,0,Bahnhof Süd,21:44,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,1,Nelkenweg,21:46,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,2,Hans-Beimler-Straße,21:47,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,3,Gerhardt-Katsch-Straße,21:48,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,4,Franz-Mehring-Straße,21:49,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,5,Am Grünland,21:52,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,6,Landratsamt,21:54,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,7,Feldstraße,21:56,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,8,Neunmorgenstraße,21:57,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,9,Gützkower Straße,21:58,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,10,Stephanistraße,22:00,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,11,Hansering,22:02,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,12,Knopfstraße,22:04,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,13,Rathaus,22:05,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,14,Bahnhofstraße,22:07,,1
+11,week,Bahnhof Süd -> ZOB,11-week-p1t2c16,15,ZOB,22:09,,1
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,0,ZOB,05:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,1,Tierpark,05:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,2,Campus Loefflerstraße,05:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,3,Rathaus,05:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,4,Gützkower Straße,05:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,5,Neunmorgenstraße,05:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,6,Feldstraße,06:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,7,Am Grünland,06:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,8,Landratsamt,06:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,9,Franz-Mehring-Straße,06:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,10,Hans-Beimler-Straße,06:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,11,Nelkenweg,06:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c01,12,Bahnhof Süd,06:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,0,ZOB,06:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,1,Tierpark,06:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,2,Campus Loefflerstraße,06:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,3,Rathaus,06:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,4,Gützkower Straße,06:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,5,Neunmorgenstraße,06:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,6,Feldstraße,06:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,7,Am Grünland,06:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,8,Landratsamt,06:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,9,Franz-Mehring-Straße,06:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,10,Hans-Beimler-Straße,06:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,11,Nelkenweg,06:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c02,12,Bahnhof Süd,06:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,0,ZOB,06:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,1,Tierpark,06:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,2,Campus Loefflerstraße,06:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,3,Rathaus,06:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,4,Gützkower Straße,06:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,5,Neunmorgenstraße,06:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,6,Feldstraße,07:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,7,Am Grünland,07:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,8,Landratsamt,07:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,9,Franz-Mehring-Straße,07:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,10,Hans-Beimler-Straße,07:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,11,Nelkenweg,07:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c03,12,Bahnhof Süd,07:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,0,ZOB,07:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,1,Tierpark,07:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,2,Campus Loefflerstraße,07:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,3,Rathaus,07:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,4,Gützkower Straße,07:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,5,Neunmorgenstraße,07:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,6,Feldstraße,07:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,7,Am Grünland,07:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,8,Landratsamt,07:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,9,Franz-Mehring-Straße,07:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,10,Hans-Beimler-Straße,07:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,11,Nelkenweg,07:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c04,12,Bahnhof Süd,07:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,0,ZOB,07:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,1,Tierpark,07:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,2,Campus Loefflerstraße,07:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,3,Rathaus,07:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,4,Gützkower Straße,07:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,5,Neunmorgenstraße,07:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,6,Feldstraße,08:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,7,Am Grünland,08:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,8,Landratsamt,08:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,9,Franz-Mehring-Straße,08:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,10,Hans-Beimler-Straße,08:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,11,Nelkenweg,08:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c05,12,Bahnhof Süd,08:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,0,ZOB,08:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,1,Tierpark,08:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,2,Campus Loefflerstraße,08:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,3,Rathaus,08:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,4,Gützkower Straße,08:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,5,Neunmorgenstraße,08:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,6,Feldstraße,08:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,7,Am Grünland,08:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,8,Landratsamt,08:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,9,Franz-Mehring-Straße,08:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,10,Hans-Beimler-Straße,08:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,11,Nelkenweg,08:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c06,12,Bahnhof Süd,08:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,0,ZOB,08:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,1,Tierpark,08:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,2,Campus Loefflerstraße,08:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,3,Rathaus,08:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,4,Gützkower Straße,08:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,5,Neunmorgenstraße,08:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,6,Feldstraße,09:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,7,Am Grünland,09:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,8,Landratsamt,09:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,9,Franz-Mehring-Straße,09:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,10,Hans-Beimler-Straße,09:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,11,Nelkenweg,09:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c07,12,Bahnhof Süd,09:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,0,ZOB,09:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,1,Tierpark,09:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,2,Campus Loefflerstraße,09:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,3,Rathaus,09:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,4,Gützkower Straße,09:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,5,Neunmorgenstraße,09:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,6,Feldstraße,09:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,7,Am Grünland,09:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,8,Landratsamt,09:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,9,Franz-Mehring-Straße,09:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,10,Hans-Beimler-Straße,09:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,11,Nelkenweg,09:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c08,12,Bahnhof Süd,09:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,0,ZOB,09:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,1,Tierpark,09:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,2,Campus Loefflerstraße,09:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,3,Rathaus,09:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,4,Gützkower Straße,09:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,5,Neunmorgenstraße,09:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,6,Feldstraße,10:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,7,Am Grünland,10:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,8,Landratsamt,10:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,9,Franz-Mehring-Straße,10:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,10,Hans-Beimler-Straße,10:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,11,Nelkenweg,10:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c09,12,Bahnhof Süd,10:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,0,ZOB,10:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,1,Tierpark,10:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,2,Campus Loefflerstraße,10:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,3,Rathaus,10:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,4,Gützkower Straße,10:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,5,Neunmorgenstraße,10:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,6,Feldstraße,10:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,7,Am Grünland,10:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,8,Landratsamt,10:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,9,Franz-Mehring-Straße,10:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,10,Hans-Beimler-Straße,10:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,11,Nelkenweg,10:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c10,12,Bahnhof Süd,10:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,0,ZOB,10:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,1,Tierpark,10:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,2,Campus Loefflerstraße,10:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,3,Rathaus,10:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,4,Gützkower Straße,10:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,5,Neunmorgenstraße,10:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,6,Feldstraße,11:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,7,Am Grünland,11:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,8,Landratsamt,11:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,9,Franz-Mehring-Straße,11:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,10,Hans-Beimler-Straße,11:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,11,Nelkenweg,11:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c11,12,Bahnhof Süd,11:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,0,ZOB,11:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,1,Tierpark,11:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,2,Campus Loefflerstraße,11:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,3,Rathaus,11:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,4,Gützkower Straße,11:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,5,Neunmorgenstraße,11:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,6,Feldstraße,11:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,7,Am Grünland,11:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,8,Landratsamt,11:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,9,Franz-Mehring-Straße,11:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,10,Hans-Beimler-Straße,11:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,11,Nelkenweg,11:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c12,12,Bahnhof Süd,11:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,0,ZOB,11:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,1,Tierpark,11:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,2,Campus Loefflerstraße,11:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,3,Rathaus,11:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,4,Gützkower Straße,11:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,5,Neunmorgenstraße,11:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,6,Feldstraße,12:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,7,Am Grünland,12:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,8,Landratsamt,12:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,9,Franz-Mehring-Straße,12:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,10,Hans-Beimler-Straße,12:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,11,Nelkenweg,12:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c13,12,Bahnhof Süd,12:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,0,ZOB,12:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,1,Tierpark,12:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,2,Campus Loefflerstraße,12:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,3,Rathaus,12:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,4,Gützkower Straße,12:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,5,Neunmorgenstraße,12:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,6,Feldstraße,12:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,7,Am Grünland,12:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,8,Landratsamt,12:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,9,Franz-Mehring-Straße,12:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,10,Hans-Beimler-Straße,12:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,11,Nelkenweg,12:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c14,12,Bahnhof Süd,12:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,0,ZOB,12:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,1,Tierpark,12:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,2,Campus Loefflerstraße,12:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,3,Rathaus,12:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,4,Gützkower Straße,12:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,5,Neunmorgenstraße,12:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,6,Feldstraße,13:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,7,Am Grünland,13:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,8,Landratsamt,13:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,9,Franz-Mehring-Straße,13:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,10,Hans-Beimler-Straße,13:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,11,Nelkenweg,13:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c15,12,Bahnhof Süd,13:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,0,ZOB,13:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,1,Tierpark,13:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,2,Campus Loefflerstraße,13:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,3,Rathaus,13:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,4,Gützkower Straße,13:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,5,Neunmorgenstraße,13:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,6,Feldstraße,13:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,7,Am Grünland,13:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,8,Landratsamt,13:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,9,Franz-Mehring-Straße,13:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,10,Hans-Beimler-Straße,13:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,11,Nelkenweg,13:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c16,12,Bahnhof Süd,13:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,0,ZOB,13:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,1,Tierpark,13:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,2,Campus Loefflerstraße,13:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,3,Rathaus,13:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,4,Gützkower Straße,13:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,5,Neunmorgenstraße,13:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,6,Feldstraße,14:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,7,Am Grünland,14:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,8,Landratsamt,14:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,9,Franz-Mehring-Straße,14:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,10,Hans-Beimler-Straße,14:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,11,Nelkenweg,14:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t1c17,12,Bahnhof Süd,14:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,0,ZOB,14:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,1,Tierpark,14:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,2,Campus Loefflerstraße,14:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,3,Rathaus,14:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,4,Gützkower Straße,14:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,5,Neunmorgenstraße,14:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,6,Feldstraße,14:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,7,Am Grünland,14:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,8,Landratsamt,14:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,9,Franz-Mehring-Straße,14:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,10,Hans-Beimler-Straße,14:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,11,Nelkenweg,14:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c01,12,Bahnhof Süd,14:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,0,ZOB,14:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,1,Tierpark,14:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,2,Campus Loefflerstraße,14:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,3,Rathaus,14:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,4,Gützkower Straße,14:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,5,Neunmorgenstraße,14:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,6,Feldstraße,15:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,7,Am Grünland,15:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,8,Landratsamt,15:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,9,Franz-Mehring-Straße,15:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,10,Hans-Beimler-Straße,15:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,11,Nelkenweg,15:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c02,12,Bahnhof Süd,15:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,0,ZOB,15:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,1,Tierpark,15:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,2,Campus Loefflerstraße,15:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,3,Rathaus,15:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,4,Gützkower Straße,15:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,5,Neunmorgenstraße,15:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,6,Feldstraße,15:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,7,Am Grünland,15:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,8,Landratsamt,15:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,9,Franz-Mehring-Straße,15:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,10,Hans-Beimler-Straße,15:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,11,Nelkenweg,15:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c03,12,Bahnhof Süd,15:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,0,ZOB,15:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,1,Tierpark,15:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,2,Campus Loefflerstraße,15:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,3,Rathaus,15:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,4,Gützkower Straße,15:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,5,Neunmorgenstraße,15:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,6,Feldstraße,16:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,7,Am Grünland,16:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,8,Landratsamt,16:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,9,Franz-Mehring-Straße,16:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,10,Hans-Beimler-Straße,16:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,11,Nelkenweg,16:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c04,12,Bahnhof Süd,16:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,0,ZOB,16:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,1,Tierpark,16:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,2,Campus Loefflerstraße,16:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,3,Rathaus,16:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,4,Gützkower Straße,16:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,5,Neunmorgenstraße,16:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,6,Feldstraße,16:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,7,Am Grünland,16:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,8,Landratsamt,16:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,9,Franz-Mehring-Straße,16:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,10,Hans-Beimler-Straße,16:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,11,Nelkenweg,16:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c05,12,Bahnhof Süd,16:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,0,ZOB,16:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,1,Tierpark,16:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,2,Campus Loefflerstraße,16:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,3,Rathaus,16:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,4,Gützkower Straße,16:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,5,Neunmorgenstraße,16:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,6,Feldstraße,17:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,7,Am Grünland,17:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,8,Landratsamt,17:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,9,Franz-Mehring-Straße,17:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,10,Hans-Beimler-Straße,17:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,11,Nelkenweg,17:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c06,12,Bahnhof Süd,17:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,0,ZOB,17:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,1,Tierpark,17:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,2,Campus Loefflerstraße,17:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,3,Rathaus,17:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,4,Gützkower Straße,17:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,5,Neunmorgenstraße,17:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,6,Feldstraße,17:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,7,Am Grünland,17:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,8,Landratsamt,17:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,9,Franz-Mehring-Straße,17:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,10,Hans-Beimler-Straße,17:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,11,Nelkenweg,17:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c07,12,Bahnhof Süd,17:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,0,ZOB,17:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,1,Tierpark,17:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,2,Campus Loefflerstraße,17:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,3,Rathaus,17:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,4,Gützkower Straße,17:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,5,Neunmorgenstraße,17:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,6,Feldstraße,18:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,7,Am Grünland,18:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,8,Landratsamt,18:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,9,Franz-Mehring-Straße,18:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,10,Hans-Beimler-Straße,18:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,11,Nelkenweg,18:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c08,12,Bahnhof Süd,18:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,0,ZOB,18:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,1,Tierpark,18:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,2,Campus Loefflerstraße,18:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,3,Rathaus,18:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,4,Gützkower Straße,18:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,5,Neunmorgenstraße,18:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,6,Feldstraße,18:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,7,Am Grünland,18:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,8,Landratsamt,18:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,9,Franz-Mehring-Straße,18:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,10,Hans-Beimler-Straße,18:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,11,Nelkenweg,18:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c09,12,Bahnhof Süd,18:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,0,ZOB,18:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,1,Tierpark,18:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,2,Campus Loefflerstraße,18:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,3,Rathaus,18:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,4,Gützkower Straße,18:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,5,Neunmorgenstraße,18:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,6,Feldstraße,19:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,7,Am Grünland,19:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,8,Landratsamt,19:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,9,Franz-Mehring-Straße,19:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,10,Hans-Beimler-Straße,19:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,11,Nelkenweg,19:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c10,12,Bahnhof Süd,19:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,0,ZOB,19:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,1,Tierpark,19:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,2,Campus Loefflerstraße,19:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,3,Rathaus,19:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,4,Gützkower Straße,19:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,5,Neunmorgenstraße,19:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,6,Feldstraße,19:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,7,Am Grünland,19:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,8,Landratsamt,19:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,9,Franz-Mehring-Straße,19:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,10,Hans-Beimler-Straße,19:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,11,Nelkenweg,19:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c11,12,Bahnhof Süd,19:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,0,ZOB,19:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,1,Tierpark,19:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,2,Campus Loefflerstraße,19:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,3,Rathaus,19:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,4,Gützkower Straße,19:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,5,Neunmorgenstraße,19:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,6,Feldstraße,20:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,7,Am Grünland,20:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,8,Landratsamt,20:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,9,Franz-Mehring-Straße,20:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,10,Hans-Beimler-Straße,20:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,11,Nelkenweg,20:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c12,12,Bahnhof Süd,20:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,0,ZOB,20:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,1,Tierpark,20:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,2,Campus Loefflerstraße,20:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,3,Rathaus,20:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,4,Gützkower Straße,20:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,5,Neunmorgenstraße,20:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,6,Feldstraße,20:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,7,Am Grünland,20:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,8,Landratsamt,20:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,9,Franz-Mehring-Straße,20:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,10,Hans-Beimler-Straße,20:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,11,Nelkenweg,20:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c13,12,Bahnhof Süd,20:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,0,ZOB,20:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,1,Tierpark,20:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,2,Campus Loefflerstraße,20:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,3,Rathaus,20:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,4,Gützkower Straße,20:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,5,Neunmorgenstraße,20:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,6,Feldstraße,21:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,7,Am Grünland,21:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,8,Landratsamt,21:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,9,Franz-Mehring-Straße,21:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,10,Hans-Beimler-Straße,21:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,11,Nelkenweg,21:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c14,12,Bahnhof Süd,21:11,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,0,ZOB,21:19,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,1,Tierpark,21:21,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,2,Campus Loefflerstraße,21:23,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,3,Rathaus,21:25,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,4,Gützkower Straße,21:27,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,5,Neunmorgenstraße,21:28,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,6,Feldstraße,21:30,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,7,Am Grünland,21:32,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,8,Landratsamt,21:34,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,9,Franz-Mehring-Straße,21:36,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,10,Hans-Beimler-Straße,21:38,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,11,Nelkenweg,21:39,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c15,12,Bahnhof Süd,21:41,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,0,ZOB,21:49,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,1,Tierpark,21:51,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,2,Campus Loefflerstraße,21:53,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,3,Rathaus,21:55,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,4,Gützkower Straße,21:57,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,5,Neunmorgenstraße,21:58,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,6,Feldstraße,22:00,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,7,Am Grünland,22:02,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,8,Landratsamt,22:04,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,9,Franz-Mehring-Straße,22:06,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,10,Hans-Beimler-Straße,22:08,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,11,Nelkenweg,22:09,,2
+11,week,ZOB -> Bahnhof Süd,11-week-p2t2c16,12,Bahnhof Süd,22:11,,2
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,0,Bahnhof Süd,08:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,1,Nelkenweg,08:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,2,Hans-Beimler-Straße,08:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,3,Gerhardt-Katsch-Straße,08:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,4,Franz-Mehring-Straße,08:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,5,Am Grünland,08:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,6,Landratsamt,08:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,7,Feldstraße,08:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,8,Neunmorgenstraße,08:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,9,Gützkower Straße,08:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,10,Stephanistraße,08:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,11,Hansering,09:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,12,Knopfstraße,09:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,13,Rathaus,09:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,14,Bahnhofstraße,09:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c01,15,ZOB,09:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,0,Bahnhof Süd,09:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,1,Nelkenweg,09:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,2,Hans-Beimler-Straße,09:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,3,Gerhardt-Katsch-Straße,09:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,4,Franz-Mehring-Straße,09:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,5,Am Grünland,09:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,6,Landratsamt,09:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,7,Feldstraße,09:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,8,Neunmorgenstraße,09:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,9,Gützkower Straße,09:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,10,Stephanistraße,09:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,11,Hansering,10:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,12,Knopfstraße,10:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,13,Rathaus,10:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,14,Bahnhofstraße,10:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c02,15,ZOB,10:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,0,Bahnhof Süd,10:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,1,Nelkenweg,10:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,2,Hans-Beimler-Straße,10:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,3,Gerhardt-Katsch-Straße,10:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,4,Franz-Mehring-Straße,10:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,5,Am Grünland,10:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,6,Landratsamt,10:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,7,Feldstraße,10:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,8,Neunmorgenstraße,10:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,9,Gützkower Straße,10:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,10,Stephanistraße,10:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,11,Hansering,11:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,12,Knopfstraße,11:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,13,Rathaus,11:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,14,Bahnhofstraße,11:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c03,15,ZOB,11:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,0,Bahnhof Süd,11:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,1,Nelkenweg,11:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,2,Hans-Beimler-Straße,11:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,3,Gerhardt-Katsch-Straße,11:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,4,Franz-Mehring-Straße,11:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,5,Am Grünland,11:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,6,Landratsamt,11:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,7,Feldstraße,11:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,8,Neunmorgenstraße,11:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,9,Gützkower Straße,11:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,10,Stephanistraße,11:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,11,Hansering,12:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,12,Knopfstraße,12:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,13,Rathaus,12:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,14,Bahnhofstraße,12:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c04,15,ZOB,12:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,0,Bahnhof Süd,12:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,1,Nelkenweg,12:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,2,Hans-Beimler-Straße,12:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,3,Gerhardt-Katsch-Straße,12:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,4,Franz-Mehring-Straße,12:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,5,Am Grünland,12:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,6,Landratsamt,12:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,7,Feldstraße,12:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,8,Neunmorgenstraße,12:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,9,Gützkower Straße,12:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,10,Stephanistraße,12:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,11,Hansering,13:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,12,Knopfstraße,13:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,13,Rathaus,13:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,14,Bahnhofstraße,13:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c05,15,ZOB,13:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,0,Bahnhof Süd,13:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,1,Nelkenweg,13:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,2,Hans-Beimler-Straße,13:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,3,Gerhardt-Katsch-Straße,13:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,4,Franz-Mehring-Straße,13:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,5,Am Grünland,13:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,6,Landratsamt,13:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,7,Feldstraße,13:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,8,Neunmorgenstraße,13:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,9,Gützkower Straße,13:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,10,Stephanistraße,13:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,11,Hansering,14:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,12,Knopfstraße,14:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,13,Rathaus,14:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,14,Bahnhofstraße,14:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c06,15,ZOB,14:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,0,Bahnhof Süd,14:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,1,Nelkenweg,14:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,2,Hans-Beimler-Straße,14:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,3,Gerhardt-Katsch-Straße,14:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,4,Franz-Mehring-Straße,14:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,5,Am Grünland,14:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,6,Landratsamt,14:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,7,Feldstraße,14:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,8,Neunmorgenstraße,14:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,9,Gützkower Straße,14:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,10,Stephanistraße,14:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,11,Hansering,15:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,12,Knopfstraße,15:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,13,Rathaus,15:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,14,Bahnhofstraße,15:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c07,15,ZOB,15:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,0,Bahnhof Süd,15:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,1,Nelkenweg,15:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,2,Hans-Beimler-Straße,15:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,3,Gerhardt-Katsch-Straße,15:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,4,Franz-Mehring-Straße,15:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,5,Am Grünland,15:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,6,Landratsamt,15:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,7,Feldstraße,15:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,8,Neunmorgenstraße,15:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,9,Gützkower Straße,15:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,10,Stephanistraße,15:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,11,Hansering,16:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,12,Knopfstraße,16:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,13,Rathaus,16:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,14,Bahnhofstraße,16:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c08,15,ZOB,16:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,0,Bahnhof Süd,16:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,1,Nelkenweg,16:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,2,Hans-Beimler-Straße,16:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,3,Gerhardt-Katsch-Straße,16:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,4,Franz-Mehring-Straße,16:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,5,Am Grünland,16:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,6,Landratsamt,16:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,7,Feldstraße,16:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,8,Neunmorgenstraße,16:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,9,Gützkower Straße,16:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,10,Stephanistraße,16:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,11,Hansering,17:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,12,Knopfstraße,17:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,13,Rathaus,17:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,14,Bahnhofstraße,17:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c09,15,ZOB,17:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,0,Bahnhof Süd,17:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,1,Nelkenweg,17:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,2,Hans-Beimler-Straße,17:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,3,Gerhardt-Katsch-Straße,17:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,4,Franz-Mehring-Straße,17:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,5,Am Grünland,17:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,6,Landratsamt,17:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,7,Feldstraße,17:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,8,Neunmorgenstraße,17:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,9,Gützkower Straße,17:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,10,Stephanistraße,17:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,11,Hansering,18:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,12,Knopfstraße,18:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,13,Rathaus,18:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,14,Bahnhofstraße,18:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c10,15,ZOB,18:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,0,Bahnhof Süd,18:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,1,Nelkenweg,18:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,2,Hans-Beimler-Straße,18:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,3,Gerhardt-Katsch-Straße,18:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,4,Franz-Mehring-Straße,18:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,5,Am Grünland,18:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,6,Landratsamt,18:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,7,Feldstraße,18:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,8,Neunmorgenstraße,18:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,9,Gützkower Straße,18:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,10,Stephanistraße,18:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,11,Hansering,19:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,12,Knopfstraße,19:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,13,Rathaus,19:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,14,Bahnhofstraße,19:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c11,15,ZOB,19:08,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,0,Bahnhof Süd,19:43,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,1,Nelkenweg,19:45,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,2,Hans-Beimler-Straße,19:46,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,3,Gerhardt-Katsch-Straße,19:47,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,4,Franz-Mehring-Straße,19:48,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,5,Am Grünland,19:51,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,6,Landratsamt,19:53,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,7,Feldstraße,19:55,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,8,Neunmorgenstraße,19:56,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,9,Gützkower Straße,19:57,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,10,Stephanistraße,19:59,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,11,Hansering,20:01,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,12,Knopfstraße,20:03,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,13,Rathaus,20:04,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,14,Bahnhofstraße,20:06,,3
+11,sat,Bahnhof Süd -> ZOB,11-sat-p3t1c12,15,ZOB,20:08,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,0,ZOB,08:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,1,Tierpark,08:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,2,Campus Loefflerstraße,08:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,3,Rathaus,08:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,4,Gützkower Straße,08:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,5,Neunmorgenstraße,08:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,6,Feldstraße,08:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,7,Am Grünland,08:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,8,Landratsamt,08:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,9,Franz-Mehring-Straße,08:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,10,Hans-Beimler-Straße,08:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,11,Nelkenweg,08:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c01,12,Bahnhof Süd,08:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,0,ZOB,09:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,1,Tierpark,09:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,2,Campus Loefflerstraße,09:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,3,Rathaus,09:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,4,Gützkower Straße,09:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,5,Neunmorgenstraße,09:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,6,Feldstraße,09:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,7,Am Grünland,09:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,8,Landratsamt,09:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,9,Franz-Mehring-Straße,09:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,10,Hans-Beimler-Straße,09:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,11,Nelkenweg,09:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c02,12,Bahnhof Süd,09:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,0,ZOB,10:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,1,Tierpark,10:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,2,Campus Loefflerstraße,10:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,3,Rathaus,10:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,4,Gützkower Straße,10:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,5,Neunmorgenstraße,10:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,6,Feldstraße,10:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,7,Am Grünland,10:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,8,Landratsamt,10:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,9,Franz-Mehring-Straße,10:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,10,Hans-Beimler-Straße,10:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,11,Nelkenweg,10:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c03,12,Bahnhof Süd,10:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,0,ZOB,11:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,1,Tierpark,11:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,2,Campus Loefflerstraße,11:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,3,Rathaus,11:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,4,Gützkower Straße,11:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,5,Neunmorgenstraße,11:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,6,Feldstraße,11:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,7,Am Grünland,11:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,8,Landratsamt,11:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,9,Franz-Mehring-Straße,11:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,10,Hans-Beimler-Straße,11:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,11,Nelkenweg,11:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c04,12,Bahnhof Süd,11:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,0,ZOB,12:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,1,Tierpark,12:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,2,Campus Loefflerstraße,12:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,3,Rathaus,12:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,4,Gützkower Straße,12:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,5,Neunmorgenstraße,12:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,6,Feldstraße,12:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,7,Am Grünland,12:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,8,Landratsamt,12:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,9,Franz-Mehring-Straße,12:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,10,Hans-Beimler-Straße,12:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,11,Nelkenweg,12:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c05,12,Bahnhof Süd,12:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,0,ZOB,13:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,1,Tierpark,13:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,2,Campus Loefflerstraße,13:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,3,Rathaus,13:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,4,Gützkower Straße,13:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,5,Neunmorgenstraße,13:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,6,Feldstraße,13:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,7,Am Grünland,13:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,8,Landratsamt,13:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,9,Franz-Mehring-Straße,13:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,10,Hans-Beimler-Straße,13:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,11,Nelkenweg,13:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c06,12,Bahnhof Süd,13:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,0,ZOB,14:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,1,Tierpark,14:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,2,Campus Loefflerstraße,14:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,3,Rathaus,14:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,4,Gützkower Straße,14:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,5,Neunmorgenstraße,14:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,6,Feldstraße,14:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,7,Am Grünland,14:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,8,Landratsamt,14:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,9,Franz-Mehring-Straße,14:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,10,Hans-Beimler-Straße,14:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,11,Nelkenweg,14:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c07,12,Bahnhof Süd,14:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,0,ZOB,15:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,1,Tierpark,15:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,2,Campus Loefflerstraße,15:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,3,Rathaus,15:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,4,Gützkower Straße,15:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,5,Neunmorgenstraße,15:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,6,Feldstraße,15:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,7,Am Grünland,15:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,8,Landratsamt,15:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,9,Franz-Mehring-Straße,15:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,10,Hans-Beimler-Straße,15:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,11,Nelkenweg,15:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c08,12,Bahnhof Süd,15:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,0,ZOB,16:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,1,Tierpark,16:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,2,Campus Loefflerstraße,16:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,3,Rathaus,16:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,4,Gützkower Straße,16:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,5,Neunmorgenstraße,16:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,6,Feldstraße,16:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,7,Am Grünland,16:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,8,Landratsamt,16:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,9,Franz-Mehring-Straße,16:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,10,Hans-Beimler-Straße,16:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,11,Nelkenweg,16:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c09,12,Bahnhof Süd,16:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,0,ZOB,17:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,1,Tierpark,17:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,2,Campus Loefflerstraße,17:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,3,Rathaus,17:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,4,Gützkower Straße,17:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,5,Neunmorgenstraße,17:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,6,Feldstraße,17:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,7,Am Grünland,17:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,8,Landratsamt,17:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,9,Franz-Mehring-Straße,17:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,10,Hans-Beimler-Straße,17:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,11,Nelkenweg,17:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c10,12,Bahnhof Süd,17:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,0,ZOB,18:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,1,Tierpark,18:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,2,Campus Loefflerstraße,18:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,3,Rathaus,18:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,4,Gützkower Straße,18:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,5,Neunmorgenstraße,18:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,6,Feldstraße,18:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,7,Am Grünland,18:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,8,Landratsamt,18:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,9,Franz-Mehring-Straße,18:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,10,Hans-Beimler-Straße,18:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,11,Nelkenweg,18:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c11,12,Bahnhof Süd,18:34,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,0,ZOB,19:12,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,1,Tierpark,19:14,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,2,Campus Loefflerstraße,19:16,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,3,Rathaus,19:18,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,4,Gützkower Straße,19:20,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,5,Neunmorgenstraße,19:21,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,6,Feldstraße,19:23,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,7,Am Grünland,19:25,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,8,Landratsamt,19:27,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,9,Franz-Mehring-Straße,19:29,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,10,Hans-Beimler-Straße,19:31,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,11,Nelkenweg,19:32,,3
+11,sat,ZOB -> Bahnhof Süd,11-sat-p3t2c12,12,Bahnhof Süd,19:34,,3
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,0,Bahnhof Süd,08:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,1,Nelkenweg,08:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,2,Hans-Beimler-Straße,08:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,3,Gerhardt-Katsch-Straße,08:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,4,Franz-Mehring-Straße,08:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,5,Am Grünland,08:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,6,Landratsamt,08:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,7,Feldstraße,08:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,8,Neunmorgenstraße,08:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,9,Gützkower Straße,08:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,10,Stephanistraße,08:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,11,Hansering,09:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,12,Knopfstraße,09:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,13,Rathaus,09:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,14,Bahnhofstraße,09:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c01,15,ZOB,09:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,0,Bahnhof Süd,09:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,1,Nelkenweg,09:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,2,Hans-Beimler-Straße,09:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,3,Gerhardt-Katsch-Straße,09:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,4,Franz-Mehring-Straße,09:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,5,Am Grünland,09:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,6,Landratsamt,09:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,7,Feldstraße,09:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,8,Neunmorgenstraße,09:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,9,Gützkower Straße,09:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,10,Stephanistraße,09:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,11,Hansering,10:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,12,Knopfstraße,10:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,13,Rathaus,10:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,14,Bahnhofstraße,10:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c02,15,ZOB,10:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,0,Bahnhof Süd,10:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,1,Nelkenweg,10:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,2,Hans-Beimler-Straße,10:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,3,Gerhardt-Katsch-Straße,10:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,4,Franz-Mehring-Straße,10:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,5,Am Grünland,10:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,6,Landratsamt,10:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,7,Feldstraße,10:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,8,Neunmorgenstraße,10:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,9,Gützkower Straße,10:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,10,Stephanistraße,10:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,11,Hansering,11:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,12,Knopfstraße,11:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,13,Rathaus,11:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,14,Bahnhofstraße,11:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c03,15,ZOB,11:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,0,Bahnhof Süd,11:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,1,Nelkenweg,11:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,2,Hans-Beimler-Straße,11:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,3,Gerhardt-Katsch-Straße,11:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,4,Franz-Mehring-Straße,11:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,5,Am Grünland,11:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,6,Landratsamt,11:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,7,Feldstraße,11:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,8,Neunmorgenstraße,11:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,9,Gützkower Straße,11:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,10,Stephanistraße,11:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,11,Hansering,12:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,12,Knopfstraße,12:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,13,Rathaus,12:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,14,Bahnhofstraße,12:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c04,15,ZOB,12:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,0,Bahnhof Süd,12:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,1,Nelkenweg,12:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,2,Hans-Beimler-Straße,12:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,3,Gerhardt-Katsch-Straße,12:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,4,Franz-Mehring-Straße,12:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,5,Am Grünland,12:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,6,Landratsamt,12:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,7,Feldstraße,12:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,8,Neunmorgenstraße,12:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,9,Gützkower Straße,12:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,10,Stephanistraße,12:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,11,Hansering,13:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,12,Knopfstraße,13:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,13,Rathaus,13:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,14,Bahnhofstraße,13:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c05,15,ZOB,13:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,0,Bahnhof Süd,13:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,1,Nelkenweg,13:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,2,Hans-Beimler-Straße,13:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,3,Gerhardt-Katsch-Straße,13:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,4,Franz-Mehring-Straße,13:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,5,Am Grünland,13:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,6,Landratsamt,13:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,7,Feldstraße,13:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,8,Neunmorgenstraße,13:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,9,Gützkower Straße,13:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,10,Stephanistraße,13:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,11,Hansering,14:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,12,Knopfstraße,14:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,13,Rathaus,14:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,14,Bahnhofstraße,14:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c06,15,ZOB,14:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,0,Bahnhof Süd,14:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,1,Nelkenweg,14:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,2,Hans-Beimler-Straße,14:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,3,Gerhardt-Katsch-Straße,14:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,4,Franz-Mehring-Straße,14:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,5,Am Grünland,14:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,6,Landratsamt,14:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,7,Feldstraße,14:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,8,Neunmorgenstraße,14:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,9,Gützkower Straße,14:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,10,Stephanistraße,14:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,11,Hansering,15:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,12,Knopfstraße,15:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,13,Rathaus,15:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,14,Bahnhofstraße,15:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c07,15,ZOB,15:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,0,Bahnhof Süd,15:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,1,Nelkenweg,15:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,2,Hans-Beimler-Straße,15:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,3,Gerhardt-Katsch-Straße,15:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,4,Franz-Mehring-Straße,15:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,5,Am Grünland,15:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,6,Landratsamt,15:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,7,Feldstraße,15:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,8,Neunmorgenstraße,15:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,9,Gützkower Straße,15:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,10,Stephanistraße,15:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,11,Hansering,16:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,12,Knopfstraße,16:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,13,Rathaus,16:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,14,Bahnhofstraße,16:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c08,15,ZOB,16:08,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,0,Bahnhof Süd,16:43,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,1,Nelkenweg,16:45,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,2,Hans-Beimler-Straße,16:46,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,3,Gerhardt-Katsch-Straße,16:47,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,4,Franz-Mehring-Straße,16:48,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,5,Am Grünland,16:51,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,6,Landratsamt,16:53,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,7,Feldstraße,16:55,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,8,Neunmorgenstraße,16:56,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,9,Gützkower Straße,16:57,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,10,Stephanistraße,16:59,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,11,Hansering,17:01,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,12,Knopfstraße,17:03,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,13,Rathaus,17:04,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,14,Bahnhofstraße,17:06,,4
+11,sun,Bahnhof Süd -> ZOB,11-sun-p4t1c09,15,ZOB,17:08,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,0,ZOB,09:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,1,Tierpark,09:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,2,Campus Loefflerstraße,09:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,3,Rathaus,09:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,4,Gützkower Straße,09:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,5,Neunmorgenstraße,09:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,6,Feldstraße,09:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,7,Am Grünland,09:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,8,Landratsamt,09:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,9,Franz-Mehring-Straße,09:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,10,Hans-Beimler-Straße,09:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,11,Nelkenweg,09:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c01,12,Bahnhof Süd,09:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,0,ZOB,10:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,1,Tierpark,10:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,2,Campus Loefflerstraße,10:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,3,Rathaus,10:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,4,Gützkower Straße,10:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,5,Neunmorgenstraße,10:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,6,Feldstraße,10:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,7,Am Grünland,10:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,8,Landratsamt,10:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,9,Franz-Mehring-Straße,10:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,10,Hans-Beimler-Straße,10:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,11,Nelkenweg,10:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c02,12,Bahnhof Süd,10:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,0,ZOB,11:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,1,Tierpark,11:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,2,Campus Loefflerstraße,11:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,3,Rathaus,11:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,4,Gützkower Straße,11:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,5,Neunmorgenstraße,11:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,6,Feldstraße,11:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,7,Am Grünland,11:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,8,Landratsamt,11:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,9,Franz-Mehring-Straße,11:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,10,Hans-Beimler-Straße,11:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,11,Nelkenweg,11:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c03,12,Bahnhof Süd,11:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,0,ZOB,12:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,1,Tierpark,12:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,2,Campus Loefflerstraße,12:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,3,Rathaus,12:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,4,Gützkower Straße,12:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,5,Neunmorgenstraße,12:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,6,Feldstraße,12:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,7,Am Grünland,12:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,8,Landratsamt,12:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,9,Franz-Mehring-Straße,12:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,10,Hans-Beimler-Straße,12:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,11,Nelkenweg,12:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c04,12,Bahnhof Süd,12:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,0,ZOB,13:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,1,Tierpark,13:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,2,Campus Loefflerstraße,13:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,3,Rathaus,13:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,4,Gützkower Straße,13:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,5,Neunmorgenstraße,13:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,6,Feldstraße,13:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,7,Am Grünland,13:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,8,Landratsamt,13:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,9,Franz-Mehring-Straße,13:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,10,Hans-Beimler-Straße,13:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,11,Nelkenweg,13:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c05,12,Bahnhof Süd,13:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,0,ZOB,14:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,1,Tierpark,14:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,2,Campus Loefflerstraße,14:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,3,Rathaus,14:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,4,Gützkower Straße,14:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,5,Neunmorgenstraße,14:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,6,Feldstraße,14:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,7,Am Grünland,14:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,8,Landratsamt,14:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,9,Franz-Mehring-Straße,14:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,10,Hans-Beimler-Straße,14:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,11,Nelkenweg,14:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c06,12,Bahnhof Süd,14:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,0,ZOB,15:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,1,Tierpark,15:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,2,Campus Loefflerstraße,15:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,3,Rathaus,15:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,4,Gützkower Straße,15:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,5,Neunmorgenstraße,15:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,6,Feldstraße,15:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,7,Am Grünland,15:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,8,Landratsamt,15:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,9,Franz-Mehring-Straße,15:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,10,Hans-Beimler-Straße,15:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,11,Nelkenweg,15:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c07,12,Bahnhof Süd,15:34,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,0,ZOB,16:12,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,1,Tierpark,16:14,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,2,Campus Loefflerstraße,16:16,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,3,Rathaus,16:18,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,4,Gützkower Straße,16:20,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,5,Neunmorgenstraße,16:21,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,6,Feldstraße,16:23,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,7,Am Grünland,16:25,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,8,Landratsamt,16:27,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,9,Franz-Mehring-Straße,16:29,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,10,Hans-Beimler-Straße,16:31,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,11,Nelkenweg,16:32,,4
+11,sun,ZOB -> Bahnhof Süd,11-sun-p4t2c08,12,Bahnhof Süd,16:34,,4

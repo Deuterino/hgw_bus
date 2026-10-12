@@ -1,0 +1,156 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,27,Helsinkiring,06:40,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,28,Eldena Mühle,06:42,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,29,Eldena,06:43,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,30,Klosterruine P+R,06:44,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,31,Eichenbrink,06:45,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,32,Friedrichshagen 1,06:48,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c01,33,Friedrichshagen 2,06:52,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,0,ZOB,13:08,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,1,Soldmannstraße,13:12,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,2,Loitzer Straße,13:13,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,3,Loitzer Landstraße,13:14,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,4,Georg-Büchner-Straße,13:15,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,5,Stadtrandsiedlung,13:16,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,6,Schillerplatz,13:17,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,7,Technologiezentrum,13:19,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,8,Siemensallee,13:20,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,9,Odebrecht Stiftung,13:22,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,10,Jüdischer Friedhof,13:23,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,11,An den Bäckerwiesen,13:24,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,12,Am Gorzberg,13:25,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,13,Bahnhof Süd,13:28,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,14,Heinrich-Hertz-Straße,13:29,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,15,Ärztehaus,13:31,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,16,Schönwalde 1,13:32,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,17,Schönwalde 2,13:34,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,18,Wohnheime,13:35,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,19,Makarenkostraße,13:36,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,20,Medigreif,13:38,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,21,Freizeitbad,13:40,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,22,Volksstadion,13:43,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,23,Ostseeviertel 1,13:44,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,24,Ostseeviertel 2,13:46,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,25,OEZ Parkseite,13:48,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,26,Rigaer Straße,13:49,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,27,Helsinkiring,13:50,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,28,Eldena Mühle,13:52,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,29,Eldena,13:53,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,30,Klosterruine P+R,13:54,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,31,Eichenbrink,13:55,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,32,Friedrichshagen 1,13:58,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c02,33,Friedrichshagen 2,14:02,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,0,ZOB,15:22,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,1,Soldmannstraße,15:26,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,2,Loitzer Straße,15:27,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,3,Loitzer Landstraße,15:28,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,4,Georg-Büchner-Straße,15:29,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,5,Stadtrandsiedlung,15:30,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,6,Schillerplatz,15:31,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,7,Technologiezentrum,15:33,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,8,Siemensallee,15:34,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,9,Odebrecht Stiftung,15:36,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,10,Jüdischer Friedhof,15:37,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,11,An den Bäckerwiesen,15:38,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,12,Am Gorzberg,15:39,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,13,Bahnhof Süd,15:42,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,14,Heinrich-Hertz-Straße,15:43,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,15,Ärztehaus,15:45,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,16,Schönwalde 1,15:46,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,17,Schönwalde 2,15:48,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,18,Wohnheime,15:49,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,19,Makarenkostraße,15:50,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,20,Medigreif,15:52,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,21,Freizeitbad,15:54,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,22,Volksstadion,15:57,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,23,Ostseeviertel 1,15:58,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,24,Ostseeviertel 2,16:00,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,25,OEZ Parkseite,16:02,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,26,Rigaer Straße,16:03,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,27,Helsinkiring,16:04,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,28,Eldena Mühle,16:06,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,29,Eldena,16:07,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,30,Klosterruine P+R,16:08,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,31,Eichenbrink,16:09,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,32,Friedrichshagen 1,16:12,,1
+50,week,ZOB -> Friedrichshagen 2,50-week-p1t1c03,33,Friedrichshagen 2,16:16,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,0,Friedrichshagen 2,06:54,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,1,Friedrichshagen 1,06:58,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,2,Eichenbrink,07:02,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,3,Klosterruine P+R,07:03,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,4,Eldena,07:04,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,5,Eldena Mühle,07:06,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,6,Helsinkiring,07:08,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,7,Rigaer Straße,07:09,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,8,OEZ Parkseite,07:11,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,9,Ostseeviertel 2,07:13,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,10,Ostseeviertel 1,07:15,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,11,Volksstadion,07:16,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,12,Freizeitbad,07:19,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,13,Medigreif,07:21,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,14,Makarenkostraße,07:23,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,15,Wohnheime,07:24,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,16,Schönwalde 2,07:25,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,17,Schönwalde 1,07:27,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,18,Ärztehaus,07:28,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,19,Heinrich-Hertz-Straße,07:29,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,20,Bahnhof Süd,07:33,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,21,Am Gorzberg,07:37,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,22,An den Bäckerwiesen,07:38,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,23,Jüdischer Friedhof,07:40,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,24,Odebrecht Stiftung,07:42,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,25,Siemensallee,07:43,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,26,Technologiezentrum,07:45,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,27,Schillerplatz,07:46,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,28,Stadtrandsiedlung,07:47,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,29,Georg-Büchner-Straße,07:48,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,30,Loitzer Landstraße,07:49,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,31,Loitzer Straße,07:50,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,32,Soldmannstraße,07:51,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c01,33,ZOB,07:53,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,0,Friedrichshagen 2,14:04,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,1,Friedrichshagen 1,14:08,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,2,Eichenbrink,14:12,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,3,Klosterruine P+R,14:13,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,4,Eldena,14:14,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,5,Eldena Mühle,14:16,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,6,Helsinkiring,14:18,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,7,Rigaer Straße,14:19,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,8,OEZ Parkseite,14:21,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,9,Ostseeviertel 2,14:23,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,10,Ostseeviertel 1,14:25,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,11,Volksstadion,14:26,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,12,Freizeitbad,14:29,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,13,Medigreif,14:31,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,14,Makarenkostraße,14:33,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,15,Wohnheime,14:34,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,16,Schönwalde 2,14:35,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,17,Schönwalde 1,14:37,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,18,Ärztehaus,14:38,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,19,Heinrich-Hertz-Straße,14:39,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,20,Bahnhof Süd,14:41,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,21,Am Gorzberg,14:45,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,22,An den Bäckerwiesen,14:46,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,23,Jüdischer Friedhof,14:48,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,24,Odebrecht Stiftung,14:50,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,25,Siemensallee,14:51,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,26,Technologiezentrum,14:53,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,27,Schillerplatz,14:54,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,28,Stadtrandsiedlung,14:55,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,29,Georg-Büchner-Straße,14:56,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,30,Loitzer Landstraße,14:57,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,31,Loitzer Straße,14:58,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,32,Soldmannstraße,14:59,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c02,33,ZOB,15:01,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,0,Friedrichshagen 2,16:18,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,1,Friedrichshagen 1,16:22,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,2,Eichenbrink,16:26,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,3,Klosterruine P+R,16:27,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,4,Eldena,16:28,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,5,Eldena Mühle,16:30,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,6,Helsinkiring,16:32,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,7,Rigaer Straße,16:33,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,8,OEZ Parkseite,16:35,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,9,Ostseeviertel 2,16:37,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,10,Ostseeviertel 1,16:39,,1
+50,week,Friedrichshagen 2 -> ZOB,50-week-p1t2c03,11,Volksstadion,16:40,,1

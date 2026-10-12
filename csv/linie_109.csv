@@ -1,0 +1,204 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,18,D.-Teßmann-Straße,06:32,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,19,IPP,06:33,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,20,Gut Koitenhagen,06:35,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,25,Klinikum,06:38,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,26,Johann-Stelling-Straße,06:41,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,27,Goethestraße,06:43,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,28,Bahnhofstraße,06:46,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c01,29,ZOB,06:47,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,18,D.-Teßmann-Straße,07:07,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,19,IPP,07:08,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,21,Helsinkiring,07:12,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,22,Ostseeviertel 2,07:18,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,23,Ostseeviertel 1,07:20,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,24,Medigreif,07:22,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,25,Klinikum,07:24,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,26,Johann-Stelling-Straße,07:27,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,27,Goethestraße,07:29,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,28,Bahnhofstraße,07:32,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c02,29,ZOB,07:33,S: verkehrt nur an Schultagen,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,18,D.-Teßmann-Straße,07:37,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,19,IPP,07:38,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,20,Gut Koitenhagen,07:40,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,25,Klinikum,07:43,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,26,Johann-Stelling-Straße,07:46,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,27,Goethestraße,07:48,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,28,Bahnhofstraße,07:51,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c03,29,ZOB,07:52,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,18,D.-Teßmann-Straße,09:02,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,19,IPP,09:03,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,20,Gut Koitenhagen,09:05,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,25,Klinikum,09:08,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,26,Johann-Stelling-Straße,09:11,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,27,Goethestraße,09:13,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,28,Bahnhofstraße,09:16,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c04,29,ZOB,09:17,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,18,D.-Teßmann-Straße,10:37,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,19,IPP,10:38,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,20,Gut Koitenhagen,10:40,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,25,Klinikum,10:43,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,26,Johann-Stelling-Straße,10:46,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,27,Goethestraße,10:48,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,28,Bahnhofstraße,10:51,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c05,29,ZOB,10:52,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,18,D.-Teßmann-Straße,13:22,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,19,IPP,13:23,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,20,Gut Koitenhagen,13:25,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,25,Klinikum,13:28,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,26,Johann-Stelling-Straße,13:31,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,27,Goethestraße,13:33,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,28,Bahnhofstraße,13:36,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c06,29,ZOB,13:37,,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,18,D.-Teßmann-Straße,15:37,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,19,IPP,15:38,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,20,Gut Koitenhagen,15:40,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,25,Klinikum,15:43,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,26,Johann-Stelling-Straße,15:46,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,27,Goethestraße,15:48,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,28,Bahnhofstraße,15:51,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c07,29,ZOB,15:52,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,18,D.-Teßmann-Straße,17:37,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,19,IPP,17:38,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,20,Gut Koitenhagen,17:40,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,25,Klinikum,17:43,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,26,Johann-Stelling-Straße,17:46,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,27,Goethestraße,17:48,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,28,Bahnhofstraße,17:51,A: verkehrt nicht am 24. und 31.12.,25
+109,week,"Anklam, ZOB (DB) -> ZOB",109-week-p25t1c08,29,ZOB,17:52,A: verkehrt nicht am 24. und 31.12.,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,18,D.-Teßmann-Straße,10:02,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,19,IPP,10:03,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,20,Gut Koitenhagen,10:05,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,25,Klinikum,10:08,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,26,Johann-Stelling-Straße,10:11,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,27,Goethestraße,10:13,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,28,Bahnhofstraße,10:16,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c09,29,ZOB,10:17,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,18,D.-Teßmann-Straße,16:17,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,19,IPP,16:18,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,20,Gut Koitenhagen,16:20,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,25,Klinikum,16:23,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,26,Johann-Stelling-Straße,16:26,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,27,Goethestraße,16:28,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,28,Bahnhofstraße,16:31,L: Linientaxi,25
+109,sat,"Anklam, ZOB (DB) -> ZOB",109-sat-p25t1c10,29,ZOB,16:32,L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,18,D.-Teßmann-Straße,10:02,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,19,IPP,10:03,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,20,Gut Koitenhagen,10:05,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,25,Klinikum,10:08,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,26,Johann-Stelling-Straße,10:11,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,27,Goethestraße,10:13,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,28,Bahnhofstraße,10:16,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c11,29,ZOB,10:17,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,18,D.-Teßmann-Straße,16:17,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,19,IPP,16:18,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,20,Gut Koitenhagen,16:20,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,25,Klinikum,16:23,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,26,Johann-Stelling-Straße,16:26,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,27,Goethestraße,16:28,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,28,Bahnhofstraße,16:31,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,sun,"Anklam, ZOB (DB) -> ZOB",109-sun-p25t1c12,29,ZOB,16:32,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,25
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,0,ZOB,06:00,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,1,Bahnhofstraße,06:01,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,2,Platz der Freiheit,06:04,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,3,Johann-Stelling-Straße,06:06,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,4,Klinikum,06:09,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,6,Gut Koitenhagen,06:12,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,7,IPP,06:14,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c01,8,D.-Teßmann-Straße,06:15,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,0,ZOB,07:00,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,1,Bahnhofstraße,07:01,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,2,Platz der Freiheit,07:04,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,3,Johann-Stelling-Straße,07:06,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,4,Klinikum,07:09,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,6,Gut Koitenhagen,07:12,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,7,IPP,07:14,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c02,8,D.-Teßmann-Straße,07:15,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,0,ZOB,08:00,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,1,Bahnhofstraße,08:01,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,2,Platz der Freiheit,08:04,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,3,Johann-Stelling-Straße,08:06,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,4,Klinikum,08:09,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,6,Gut Koitenhagen,08:12,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,7,IPP,08:14,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c03,8,D.-Teßmann-Straße,08:15,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,0,ZOB,09:30,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,1,Bahnhofstraße,09:31,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,2,Platz der Freiheit,09:34,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,3,Johann-Stelling-Straße,09:36,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,4,Klinikum,09:39,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,6,Gut Koitenhagen,09:42,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,7,IPP,09:44,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c04,8,D.-Teßmann-Straße,09:45,,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,0,ZOB,11:05,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,1,Bahnhofstraße,11:06,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,2,Platz der Freiheit,11:09,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,3,Johann-Stelling-Straße,11:11,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,4,Klinikum,11:14,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,6,Gut Koitenhagen,11:17,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,7,IPP,11:19,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c05,8,D.-Teßmann-Straße,11:20,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,0,ZOB,14:00,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,1,Bahnhofstraße,14:01,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,2,Platz der Freiheit,14:04,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,3,Johann-Stelling-Straße,14:06,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,4,Klinikum,14:09,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,6,Gut Koitenhagen,14:14,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,7,IPP,14:16,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c06,8,D.-Teßmann-Straße,14:17,S: verkehrt nur an Schultagen,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,0,ZOB,14:00,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,1,Bahnhofstraße,14:01,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,2,Platz der Freiheit,14:04,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,3,Johann-Stelling-Straße,14:06,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,4,Klinikum,14:09,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,6,Gut Koitenhagen,14:12,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,7,IPP,14:14,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c07,8,D.-Teßmann-Straße,14:15,F: verkehrt nur in den Ferien,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,0,ZOB,16:00,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,1,Bahnhofstraße,16:01,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,2,Platz der Freiheit,16:04,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,3,Johann-Stelling-Straße,16:06,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,4,Klinikum,16:09,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,6,Gut Koitenhagen,16:15,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,7,IPP,16:17,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c08,8,D.-Teßmann-Straße,16:18,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,0,ZOB,18:00,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,1,Bahnhofstraße,18:01,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,2,Platz der Freiheit,18:04,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,3,Johann-Stelling-Straße,18:06,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,4,Klinikum,18:09,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,6,Gut Koitenhagen,18:12,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,7,IPP,18:14,A: verkehrt nicht am 24. und 31.12.,26
+109,week,"ZOB -> Anklam, ZOB (DB)",109-week-p26t1c09,8,D.-Teßmann-Straße,18:15,A: verkehrt nicht am 24. und 31.12.,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,0,ZOB,10:30,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,1,Bahnhofstraße,10:31,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,2,Platz der Freiheit,10:34,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,3,Johann-Stelling-Straße,10:36,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,4,Klinikum,10:39,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,6,Gut Koitenhagen,10:42,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,7,IPP,10:44,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c10,8,D.-Teßmann-Straße,10:45,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,0,ZOB,16:40,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,1,Bahnhofstraße,16:41,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,2,Platz der Freiheit,16:44,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,3,Johann-Stelling-Straße,16:46,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,4,Klinikum,16:49,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,6,Gut Koitenhagen,16:52,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,7,IPP,16:54,L: Linientaxi,26
+109,sat,"ZOB -> Anklam, ZOB (DB)",109-sat-p26t1c11,8,D.-Teßmann-Straße,16:55,L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,0,ZOB,10:30,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,1,Bahnhofstraße,10:31,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,2,Platz der Freiheit,10:34,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,3,Johann-Stelling-Straße,10:36,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,4,Klinikum,10:39,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,6,Gut Koitenhagen,10:42,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,7,IPP,10:44,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c12,8,D.-Teßmann-Straße,10:45,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,0,ZOB,16:40,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,1,Bahnhofstraße,16:41,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,2,Platz der Freiheit,16:44,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,3,Johann-Stelling-Straße,16:46,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,4,Klinikum,16:49,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,6,Gut Koitenhagen,16:52,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,7,IPP,16:54,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26
+109,sun,"ZOB -> Anklam, ZOB (DB)",109-sun-p26t1c13,8,D.-Teßmann-Straße,16:55,A: verkehrt nicht am 24. und 31.12.; L: Linientaxi,26

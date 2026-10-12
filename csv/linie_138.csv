@@ -1,0 +1,490 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,1,ZOB,05:10,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,2,Bahnhofstraße,05:11,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,3,Platz der Freiheit,05:12,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,4,An den Wurthen,05:13,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,11,Am St.Georgsfeld,05:14,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,12,Volksstadion,05:15,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,13,Ostseeviertel 1,05:16,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,14,Ostseeviertel 2,05:17,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,15,Eldena,05:18,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c01,16,Eichenbrink,05:19,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,1,ZOB,05:45,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,2,Bahnhofstraße,05:47,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,3,Platz der Freiheit,05:48,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,4,An den Wurthen,05:49,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,5,Hans-Beimler-Straße,05:50,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,6,Bahnhof Süd,05:52,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,7,Ärztehaus,05:54,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,8,Schönwalde 1,05:56,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,9,Schönwalde 2,05:58,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,10,Makarenkostraße,05:59,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,12,Volksstadion,06:02,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,13,Ostseeviertel 1,06:04,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,14,Ostseeviertel 2,06:05,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,15,Eldena,06:07,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c02,16,Eichenbrink,06:09,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,1,ZOB,05:45,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,2,Bahnhofstraße,05:47,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,3,Platz der Freiheit,05:48,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,4,An den Wurthen,05:49,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,5,Hans-Beimler-Straße,05:50,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,6,Bahnhof Süd,05:52,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,7,Ärztehaus,05:54,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,8,Schönwalde 1,05:56,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,9,Schönwalde 2,05:58,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,10,Makarenkostraße,05:59,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,12,Volksstadion,06:02,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,13,Ostseeviertel 1,06:04,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,14,Ostseeviertel 2,06:05,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,15,Eldena,06:07,S: verkehrt nur an Schultagen,85
+138,week,Helmshagen -> Wusterhusen,138-week-p85t1c03,16,Eichenbrink,06:09,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,1,ZOB,06:00,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,2,Bahnhofstraße,06:02,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,3,Platz der Freiheit,06:03,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,4,An den Wurthen,06:04,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,11,Am St.Georgsfeld,06:06,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,12,Volksstadion,06:08,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,13,Ostseeviertel 1,06:10,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,14,Ostseeviertel 2,06:11,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,15,Eldena,06:13,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c04,16,Eichenbrink,06:14,S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,1,ZOB,06:10,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,2,Bahnhofstraße,06:12,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,3,Platz der Freiheit,06:13,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,4,An den Wurthen,06:14,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,11,Am St.Georgsfeld,06:16,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,12,Volksstadion,06:18,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,13,Ostseeviertel 1,06:20,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,14,Ostseeviertel 2,06:21,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,15,Eldena,06:23,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c05,16,Eichenbrink,06:24,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,1,ZOB,08:05,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,2,Bahnhofstraße,08:07,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,3,Platz der Freiheit,08:08,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,4,An den Wurthen,08:09,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,5,Hans-Beimler-Straße,08:11,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,6,Bahnhof Süd,08:13,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,7,Ärztehaus,08:15,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,8,Schönwalde 1,08:17,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,9,Schönwalde 2,08:19,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,10,Makarenkostraße,08:22,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,12,Volksstadion,08:25,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,13,Ostseeviertel 1,08:27,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,14,Ostseeviertel 2,08:28,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,15,Eldena,08:30,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"ZOB -> Lubmin, Werkbahnhof",138-week-p85t1c06,16,Eichenbrink,08:31,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,1,ZOB,09:00,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,2,Bahnhofstraße,09:02,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,3,Platz der Freiheit,09:03,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,4,An den Wurthen,09:04,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,5,Hans-Beimler-Straße,09:06,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,6,Bahnhof Süd,09:08,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,7,Ärztehaus,09:10,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,8,Schönwalde 1,09:12,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,9,Schönwalde 2,09:14,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,10,Makarenkostraße,09:15,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,12,Volksstadion,09:18,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,13,Ostseeviertel 1,09:20,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,14,Ostseeviertel 2,09:21,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,15,Eldena,09:23,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c07,16,Eichenbrink,09:24,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,1,ZOB,11:00,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,2,Bahnhofstraße,11:02,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,3,Platz der Freiheit,11:03,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,4,An den Wurthen,11:04,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,5,Hans-Beimler-Straße,11:06,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,6,Bahnhof Süd,11:08,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,7,Ärztehaus,11:10,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,8,Schönwalde 1,11:12,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,9,Schönwalde 2,11:14,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,10,Makarenkostraße,11:17,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,12,Volksstadion,11:20,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,13,Ostseeviertel 1,11:22,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,14,Ostseeviertel 2,11:23,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,15,Eldena,11:25,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Lubmin, Werkbahnhof",138-week-p85t1c08,16,Eichenbrink,11:26,A: verkehrt nicht am 24. und 31.12.,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,1,ZOB,12:00,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,2,Bahnhofstraße,12:02,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,3,Platz der Freiheit,12:03,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,4,An den Wurthen,12:04,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,11,Am St.Georgsfeld,12:06,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,12,Volksstadion,12:08,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,13,Ostseeviertel 1,12:10,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,14,Ostseeviertel 2,12:11,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,15,Eldena,12:13,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c09,16,Eichenbrink,12:14,N: verkehrt über Latzow; S: verkehrt nur an Schultagen,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,1,ZOB,12:00,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,2,Bahnhofstraße,12:02,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,3,Platz der Freiheit,12:03,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,4,An den Wurthen,12:04,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,11,Am St.Georgsfeld,12:06,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,12,Volksstadion,12:08,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,13,Ostseeviertel 1,12:10,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,14,Ostseeviertel 2,12:11,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,15,Eldena,12:13,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"Helmshagen -> Wolgast, Bahnhof (DB)",138-week-p85t1c10,16,Eichenbrink,12:14,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,85
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,0,ZOB,14:00,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,1,Bahnhofstraße,14:02,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,2,Platz der Freiheit,14:03,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,3,An den Wurthen,14:04,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,10,Am St.Georgsfeld,14:06,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,11,Volksstadion,14:08,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,12,Ostseeviertel 1,14:10,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,13,Ostseeviertel 2,14:11,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,14,Eldena,14:13,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c01,15,Eichenbrink,14:14,S: verkehrt nur an Schultagen; h: Fahrgäste in Richtung Katzow in Kemnitz umsteigen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,0,ZOB,14:00,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,1,Bahnhofstraße,14:02,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,2,Platz der Freiheit,14:03,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,3,An den Wurthen,14:04,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,10,Am St.Georgsfeld,14:06,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,11,Volksstadion,14:08,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,12,Ostseeviertel 1,14:10,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,13,Ostseeviertel 2,14:11,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,14,Eldena,14:13,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c02,15,Eichenbrink,14:14,F: verkehrt nur in den Ferien,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,0,ZOB,14:50,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,1,Bahnhofstraße,14:53,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,2,Platz der Freiheit,14:55,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,3,An den Wurthen,14:56,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,10,Am St.Georgsfeld,14:57,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,11,Volksstadion,14:58,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,12,Ostseeviertel 1,14:59,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,13,Ostseeviertel 2,15:00,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,14,Eldena,15:03,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c03,15,Eichenbrink,15:04,S: verkehrt nur an Schultagen,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,0,ZOB,15:30,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,1,Bahnhofstraße,15:32,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,2,Platz der Freiheit,15:33,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,3,An den Wurthen,15:34,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,10,Am St.Georgsfeld,15:35,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,11,Volksstadion,15:36,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,12,Ostseeviertel 1,15:37,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,13,Ostseeviertel 2,15:38,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,14,Eldena,15:41,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wusterhusen,Schule",138-week-p86t1c04,15,Eichenbrink,15:43,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,0,ZOB,17:10,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,1,Bahnhofstraße,17:12,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,2,Platz der Freiheit,17:13,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,3,An den Wurthen,17:14,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,10,Am St.Georgsfeld,17:16,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,11,Volksstadion,17:18,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,12,Ostseeviertel 1,17:20,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,13,Ostseeviertel 2,17:21,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,14,Eldena,17:23,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Wolgast, Bahnhof (DB)",138-week-p86t1c05,15,Eichenbrink,17:24,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,0,ZOB,18:55,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,1,Bahnhofstraße,18:57,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,2,Platz der Freiheit,18:58,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,3,An den Wurthen,18:59,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,10,Am St.Georgsfeld,19:00,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,11,Volksstadion,19:02,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,12,Ostseeviertel 1,19:03,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,13,Ostseeviertel 2,19:04,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,14,Eldena,19:06,A: verkehrt nicht am 24. und 31.12.,86
+138,week,"ZOB -> Lubmin, Seebad",138-week-p86t1c06,15,Eichenbrink,19:08,A: verkehrt nicht am 24. und 31.12.,86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,0,ZOB,11:20,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,1,Bahnhofstraße,11:22,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,2,Platz der Freiheit,11:23,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,3,An den Wurthen,11:24,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,10,Am St.Georgsfeld,11:25,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,11,Volksstadion,11:27,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,12,Ostseeviertel 1,11:28,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,13,Ostseeviertel 2,11:29,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,14,Eldena,11:31,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c07,15,Eichenbrink,11:33,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,0,ZOB,15:45,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,1,Bahnhofstraße,15:47,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,2,Platz der Freiheit,15:48,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,3,An den Wurthen,15:49,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,10,Am St.Georgsfeld,15:50,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,11,Volksstadion,15:52,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,12,Ostseeviertel 1,15:53,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,13,Ostseeviertel 2,15:54,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,14,Eldena,15:56,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c08,15,Eichenbrink,15:58,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,0,ZOB,17:00,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,1,Bahnhofstraße,17:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,2,Platz der Freiheit,17:03,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,3,An den Wurthen,17:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,10,Am St.Georgsfeld,17:05,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,11,Volksstadion,17:07,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,12,Ostseeviertel 1,17:08,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,13,Ostseeviertel 2,17:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,14,Eldena,17:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sat,"ZOB -> Lubmin, Seebad",138-sat-p86t1c09,15,Eichenbrink,17:13,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,0,ZOB,10:00,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,1,Bahnhofstraße,10:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,2,Platz der Freiheit,10:03,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,3,An den Wurthen,10:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,10,Am St.Georgsfeld,10:05,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,11,Volksstadion,10:07,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,12,Ostseeviertel 1,10:08,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,13,Ostseeviertel 2,10:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,14,Eldena,10:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c10,15,Eichenbrink,10:13,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,0,ZOB,11:20,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,1,Bahnhofstraße,11:22,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,2,Platz der Freiheit,11:23,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,3,An den Wurthen,11:24,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,10,Am St.Georgsfeld,11:25,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,11,Volksstadion,11:27,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,12,Ostseeviertel 1,11:28,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,13,Ostseeviertel 2,11:29,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,14,Eldena,11:31,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c11,15,Eichenbrink,11:33,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,0,ZOB,15:45,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,1,Bahnhofstraße,15:47,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,2,Platz der Freiheit,15:48,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,3,An den Wurthen,15:49,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,10,Am St.Georgsfeld,15:50,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,11,Volksstadion,15:52,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,12,Ostseeviertel 1,15:53,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,13,Ostseeviertel 2,15:54,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,14,Eldena,15:56,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c12,15,Eichenbrink,15:58,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,0,ZOB,17:00,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,1,Bahnhofstraße,17:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,2,Platz der Freiheit,17:03,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,3,An den Wurthen,17:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,10,Am St.Georgsfeld,17:05,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,11,Volksstadion,17:07,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,12,Ostseeviertel 1,17:08,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,13,Ostseeviertel 2,17:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,14,Eldena,17:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,sun,"ZOB -> Lubmin, Seebad",138-sun-p86t1c13,15,Eichenbrink,17:13,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),86
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,34,Eichenbrink,06:57,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,35,Eldena,06:59,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,36,Ostseeviertel 2,07:01,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,37,Ostseeviertel 1,07:03,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,38,Volksstadion,07:05,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,45,Am St.Georgsfeld,07:08,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,46,An den Wurthen,07:11,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,47,Goethestraße,07:12,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,48,Bahnhofstraße,07:13,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c01,49,ZOB,07:14,S: verkehrt nur an Schultagen,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,34,Eichenbrink,07:02,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,35,Eldena,07:03,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,36,Ostseeviertel 2,07:05,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,37,Ostseeviertel 1,07:06,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,38,Volksstadion,07:08,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,45,Am St.Georgsfeld,07:10,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,46,An den Wurthen,07:12,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,47,Goethestraße,07:13,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,48,Bahnhofstraße,07:14,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> Helmshagen",138-week-p87t1c02,49,ZOB,07:15,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,34,Eichenbrink,08:16,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,35,Eldena,08:17,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,36,Ostseeviertel 2,08:20,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,37,Ostseeviertel 1,08:21,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,38,Volksstadion,08:23,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,45,Am St.Georgsfeld,08:25,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,46,An den Wurthen,08:27,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,47,Goethestraße,08:28,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,48,Bahnhofstraße,08:30,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c03,49,ZOB,08:31,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,34,Eichenbrink,09:30,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,35,Eldena,09:31,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,36,Ostseeviertel 2,09:34,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,37,Ostseeviertel 1,09:35,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,38,Volksstadion,09:37,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,39,Makarenkostraße,09:40,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,40,Schönwalde 2,09:42,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,41,Schönwalde 1,09:44,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,42,Ärztehaus,09:46,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,43,Bahnhof Süd,09:48,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,44,Hans-Beimler-Straße,09:50,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,47,Goethestraße,09:52,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,48,Bahnhofstraße,09:54,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c04,49,ZOB,09:55,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,34,Eichenbrink,11:14,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,35,Eldena,11:15,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,36,Ostseeviertel 2,11:18,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,37,Ostseeviertel 1,11:19,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,38,Volksstadion,11:21,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,45,Am St.Georgsfeld,11:23,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,46,An den Wurthen,11:25,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,47,Goethestraße,11:26,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,48,Bahnhofstraße,11:28,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c05,49,ZOB,11:29,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,34,Eichenbrink,12:23,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,35,Eldena,12:24,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,36,Ostseeviertel 2,12:27,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,37,Ostseeviertel 1,12:28,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,38,Volksstadion,12:30,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,39,Makarenkostraße,12:33,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,40,Schönwalde 2,12:35,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,41,Schönwalde 1,12:37,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,42,Ärztehaus,12:39,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,43,Bahnhof Süd,12:41,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,44,Hans-Beimler-Straße,12:43,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,47,Goethestraße,12:45,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,48,Bahnhofstraße,12:47,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c06,49,ZOB,12:53,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,34,Eichenbrink,12:57,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,35,Eldena,12:58,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,36,Ostseeviertel 2,13:01,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,37,Ostseeviertel 1,13:02,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,38,Volksstadion,13:04,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,39,Makarenkostraße,13:06,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,40,Schönwalde 2,13:08,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,41,Schönwalde 1,13:10,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,42,Ärztehaus,13:12,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,43,Bahnhof Süd,13:14,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,44,Hans-Beimler-Straße,13:16,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,47,Goethestraße,13:18,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,48,Bahnhofstraße,13:19,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p87t1c07,49,ZOB,13:20,nur Freitag; A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,34,Eichenbrink,14:18,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,35,Eldena,14:19,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,36,Ostseeviertel 2,14:21,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,37,Ostseeviertel 1,14:22,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,38,Volksstadion,14:24,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,45,Am St.Georgsfeld,14:25,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,46,An den Wurthen,14:27,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,47,Goethestraße,14:30,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,48,Bahnhofstraße,14:35,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c08,49,ZOB,14:40,S: verkehrt nur an Schultagen; m: verkehrt über Kräpeln,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,34,Eichenbrink,13:59,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,35,Eldena,14:00,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,36,Ostseeviertel 2,14:03,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,37,Ostseeviertel 1,14:04,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,38,Volksstadion,14:06,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,45,Am St.Georgsfeld,14:08,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,46,An den Wurthen,14:10,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,47,Goethestraße,14:11,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,48,Bahnhofstraße,14:13,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c09,49,ZOB,14:14,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,34,Eichenbrink,16:11,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,35,Eldena,16:12,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,36,Ostseeviertel 2,16:15,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,37,Ostseeviertel 1,16:16,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,38,Volksstadion,16:17,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,39,Makarenkostraße,16:20,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,40,Schönwalde 2,16:22,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,41,Schönwalde 1,16:24,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,42,Ärztehaus,16:26,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,43,Bahnhof Süd,16:28,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,44,Hans-Beimler-Straße,16:30,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,47,Goethestraße,16:32,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,48,Bahnhofstraße,16:33,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p87t1c10,49,ZOB,16:34,A: verkehrt nicht am 24. und 31.12.,87
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,34,Eichenbrink,16:59,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,35,Eldena,17:00,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,36,Ostseeviertel 2,17:02,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,37,Ostseeviertel 1,17:03,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,38,Volksstadion,17:05,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,45,Am St.Georgsfeld,17:07,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,46,An den Wurthen,17:09,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,47,Goethestraße,17:10,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,48,Bahnhofstraße,17:11,S: verkehrt nur an Schultagen,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c01,49,ZOB,17:12,S: verkehrt nur an Schultagen,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,34,Eichenbrink,16:41,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,35,Eldena,16:42,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,36,Ostseeviertel 2,16:44,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,37,Ostseeviertel 1,16:45,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,38,Volksstadion,16:46,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,39,Makarenkostraße,16:48,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,40,Schönwalde 2,16:50,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,41,Schönwalde 1,16:51,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,42,Ärztehaus,16:52,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,43,Bahnhof Süd,16:54,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,44,Hans-Beimler-Straße,16:56,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,47,Goethestraße,16:59,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,48,Bahnhofstraße,17:02,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Werkbahnhof -> ZOB",138-week-p88t1c02,49,ZOB,17:04,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,34,Eichenbrink,19:00,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,35,Eldena,19:01,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,36,Ostseeviertel 2,19:04,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,37,Ostseeviertel 1,19:05,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,38,Volksstadion,19:07,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,39,Makarenkostraße,19:10,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,40,Schönwalde 2,19:12,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,41,Schönwalde 1,19:14,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,42,Ärztehaus,19:16,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,43,Bahnhof Süd,19:18,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,44,Hans-Beimler-Straße,19:20,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,47,Goethestraße,19:22,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,48,Bahnhofstraße,19:24,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Wolgast, Bahnhof (DB) -> ZOB",138-week-p88t1c03,49,ZOB,19:25,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,34,Eichenbrink,19:47,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,35,Eldena,19:48,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,36,Ostseeviertel 2,19:51,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,37,Ostseeviertel 1,19:52,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,38,Volksstadion,19:54,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,45,Am St.Georgsfeld,19:56,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,46,An den Wurthen,19:58,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,47,Goethestraße,19:59,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,48,Bahnhofstraße,20:01,A: verkehrt nicht am 24. und 31.12.,88
+138,week,"Lubmin, Seebad -> ZOB",138-week-p88t1c04,49,ZOB,20:02,A: verkehrt nicht am 24. und 31.12.,88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,34,Eichenbrink,12:17,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,35,Eldena,12:18,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,36,Ostseeviertel 2,12:21,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,37,Ostseeviertel 1,12:22,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,38,Volksstadion,12:24,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,45,Am St.Georgsfeld,12:26,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,46,An den Wurthen,12:28,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,47,Goethestraße,12:29,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,48,Bahnhofstraße,12:31,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c05,49,ZOB,12:32,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,34,Eichenbrink,16:37,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,35,Eldena,16:38,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,36,Ostseeviertel 2,16:41,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,37,Ostseeviertel 1,16:42,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,38,Volksstadion,16:44,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,45,Am St.Georgsfeld,16:46,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,46,An den Wurthen,16:48,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,47,Goethestraße,16:49,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,48,Bahnhofstraße,16:51,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c06,49,ZOB,16:52,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,34,Eichenbrink,17:57,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,35,Eldena,17:58,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,36,Ostseeviertel 2,18:01,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,37,Ostseeviertel 1,18:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,38,Volksstadion,18:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,45,Am St.Georgsfeld,18:06,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,46,An den Wurthen,18:08,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,47,Goethestraße,18:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,48,Bahnhofstraße,18:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sat,"Lubmin, Seebad -> ZOB",138-sat-p88t1c07,49,ZOB,18:12,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,34,Eichenbrink,10:57,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,35,Eldena,10:58,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,36,Ostseeviertel 2,11:01,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,37,Ostseeviertel 1,11:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,38,Volksstadion,11:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,45,Am St.Georgsfeld,11:06,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,46,An den Wurthen,11:08,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,47,Goethestraße,11:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,48,Bahnhofstraße,11:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c08,49,ZOB,11:12,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,34,Eichenbrink,12:17,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,35,Eldena,12:18,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,36,Ostseeviertel 2,12:21,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,37,Ostseeviertel 1,12:22,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,38,Volksstadion,12:24,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,45,Am St.Georgsfeld,12:26,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,46,An den Wurthen,12:28,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,47,Goethestraße,12:29,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,48,Bahnhofstraße,12:31,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c09,49,ZOB,12:32,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,34,Eichenbrink,16:37,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,35,Eldena,16:38,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,36,Ostseeviertel 2,16:41,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,37,Ostseeviertel 1,16:42,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,38,Volksstadion,16:44,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,45,Am St.Georgsfeld,16:46,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,46,An den Wurthen,16:48,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,47,Goethestraße,16:49,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,48,Bahnhofstraße,16:51,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c10,49,ZOB,16:52,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,34,Eichenbrink,17:57,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,35,Eldena,17:58,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,36,Ostseeviertel 2,18:01,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,37,Ostseeviertel 1,18:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,38,Volksstadion,18:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,45,Am St.Georgsfeld,18:06,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,46,An den Wurthen,18:08,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,47,Goethestraße,18:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,48,Bahnhofstraße,18:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88
+138,sun,"Lubmin, Seebad -> ZOB",138-sun-p88t1c11,49,ZOB,18:12,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),88

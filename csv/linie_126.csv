@@ -1,0 +1,25 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,0,ZOB,06:20,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,1,Bahnhofstraße,06:22,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,2,Platz der Freiheit,06:24,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,3,Johann-Stelling-Straße,06:26,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,4,Klinikum,06:28,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,5,Gut Koitenhagen,06:30,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,6,IPP,06:31,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Gützkow, Realschule",126-week-p61t1c01,7,D.-Teßmann-Straße,06:32,S: verkehrt nur an Schultagen; n: verkehrt weiter auf Linie 133,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,0,ZOB,12:50,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,1,Bahnhofstraße,12:51,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,2,Platz der Freiheit,12:52,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,3,Johann-Stelling-Straße,12:54,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,4,Klinikum,12:55,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,5,Gut Koitenhagen,12:57,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,6,IPP,12:59,S: verkehrt nur an Schultagen,61
+126,week,"ZOB -> Züssow, Schule",126-week-p61t1c02,7,D.-Teßmann-Straße,13:00,S: verkehrt nur an Schultagen,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,0,ZOB,13:00,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,1,Bahnhofstraße,13:01,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,2,Platz der Freiheit,13:02,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,3,Johann-Stelling-Straße,13:04,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,4,Klinikum,13:05,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,5,Gut Koitenhagen,13:07,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,6,IPP,13:09,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61
+126,week,ZOB -> Karlsburg,126-week-p61t1c03,7,D.-Teßmann-Straße,13:10,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,61

@@ -1,0 +1,31 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c01,32,IPP,06:00,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c01,33,Gut Koitenhagen,06:02,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c01,34,Klinikum,06:04,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c01,35,Goethestraße,06:07,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c01,36,ZOB,06:09,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c02,32,IPP,09:11,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c02,33,Gut Koitenhagen,09:13,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c02,34,Klinikum,09:15,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c02,35,Goethestraße,09:18,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c02,36,ZOB,09:20,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c03,32,IPP,14:11,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c03,33,Gut Koitenhagen,14:13,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c03,34,Klinikum,14:15,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c03,35,Goethestraße,14:18,S: verkehrt nur an Schultagen,1
+271,week,Wolgast Hagebaumarkt -> ZOB,271-week-p1t1c03,36,ZOB,14:20,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c01,0,ZOB,06:12,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c01,1,Am Theater,06:15,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c01,2,Klinikum,06:17,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c01,3,Gut Koitenhagen,06:20,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c01,4,IPP,06:22,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c02,0,ZOB,10:30,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c02,1,Am Theater,10:33,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c02,2,Klinikum,10:35,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c02,3,Gut Koitenhagen,10:38,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c02,4,IPP,10:40,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c03,0,ZOB,14:30,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c03,1,Am Theater,14:33,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c03,2,Klinikum,14:35,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c03,3,Gut Koitenhagen,14:38,S: verkehrt nur an Schultagen,1
+271,week,ZOB -> Wolgast Hagebaumarkt,271-week-p1t2c03,4,IPP,14:40,S: verkehrt nur an Schultagen,1

@@ -1,0 +1,54 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,0,ZOB,11:00,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,1,Bahnhofstraße,11:02,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,2,Platz der Freiheit,11:03,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,3,Johann-Stelling-Straße,11:04,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,4,Klinikum,11:09,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,5,Gut Koitenhagen,11:12,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,6,IPP,11:13,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c03,7,D.-Teßmann-Straße,11:14,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,0,ZOB,16:05,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,1,Bahnhofstraße,16:07,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,2,Platz der Freiheit,16:08,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,3,Johann-Stelling-Straße,16:09,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,4,Klinikum,16:14,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,5,Gut Koitenhagen,16:17,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,6,IPP,16:18,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"ZOB -> Wolgast, Bahnhof (DB)",135-week-p79t1c06,7,D.-Teßmann-Straße,16:19,A: verkehrt nicht am 24. und 31.12.,79
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,33,D.-Teßmann-Straße,07:07,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,34,IPP,07:08,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,36,Tolstoistraße,07:13,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,37,Schönwalde 2,07:15,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,38,Schönwalde 1,07:17,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,39,Ärztehaus,07:19,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,42,Bahnhof Süd,07:21,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,43,Hans-Beimler-Straße,07:22,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,44,Hans-Beimler-Straße,07:23,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,45,Johann-Stelling-Straße,07:25,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,46,Goethestraße,07:28,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,47,Bahnhofstraße,07:31,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c02,48,ZOB,07:34,A: verkehrt nicht am 24. und 31.12.; D: Hst. Tessmannstr. Umstieg in Richtung Ostseeviertel,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,33,D.-Teßmann-Straße,08:23,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,34,IPP,08:24,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,35,Gut Koitenhagen,08:26,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,40,Klinikum,08:28,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,41,Johann-Stelling-Straße,08:30,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,46,Goethestraße,08:32,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,47,Bahnhofstraße,08:33,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c03,48,ZOB,08:34,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,33,D.-Teßmann-Straße,12:35,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,34,IPP,12:36,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,35,Gut Koitenhagen,12:38,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,40,Klinikum,12:40,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,41,Johann-Stelling-Straße,12:42,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,46,Goethestraße,12:43,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,47,Bahnhofstraße,12:45,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c04,48,ZOB,12:46,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,33,D.-Teßmann-Straße,17:35,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,34,IPP,17:36,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,35,Gut Koitenhagen,17:38,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,40,Klinikum,17:40,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,41,Johann-Stelling-Straße,17:42,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,46,Goethestraße,17:43,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,47,Bahnhofstraße,17:45,A: verkehrt nicht am 24. und 31.12.,80
+135,week,"Wolgast, Bahnhof (DB) -> ZOB",135-week-p80t1c05,48,ZOB,17:46,A: verkehrt nicht am 24. und 31.12.,80

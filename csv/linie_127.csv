@@ -1,0 +1,258 @@
+line,day,direction,trip_id,seq,stop,time,note,page
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,1,ZOB,05:45,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,2,Hans-Beimler-Straße,05:51,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,3,Bahnhof Süd,05:54,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,4,Ärztehaus,05:56,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,5,Schönwalde 1,05:58,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,6,Schönwalde 2,06:01,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,7,Tolstoistraße,06:03,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,8,Helsinkiring,06:05,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,10,Ostseeviertel 2,06:07,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,13,Ostseeviertel 1,06:08,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,17,Volksstadion,06:09,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,18,Am St.Georgsfeld,06:11,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,19,An den Wurthen,06:12,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,27,Platz der Freiheit,06:13,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"Helmshagen -> Riems, Wendeschleife",127-week-p63t1c01,28,Steinbecker-Brücke,06:17,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,1,ZOB,07:15,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,2,Hans-Beimler-Straße,07:23,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,3,Bahnhof Süd,07:26,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,4,Ärztehaus,07:29,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,5,Schönwalde 1,07:30,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,6,Schönwalde 2,07:32,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,7,Tolstoistraße,07:35,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,8,Helsinkiring,07:37,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,10,Ostseeviertel 2,07:40,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,13,Ostseeviertel 1,07:41,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,17,Volksstadion,07:42,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,18,Am St.Georgsfeld,07:43,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,19,An den Wurthen,07:45,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,27,Platz der Freiheit,07:46,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c02,28,Steinbecker-Brücke,07:50,A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c03,1,ZOB,08:12,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c03,26,Bahnhofstraße,08:13,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c03,27,Platz der Freiheit,08:15,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c03,28,Steinbecker-Brücke,08:18,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c04,1,ZOB,09:42,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c04,26,Bahnhofstraße,09:44,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c04,27,Platz der Freiheit,09:47,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c04,28,Steinbecker-Brücke,09:50,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c05,1,ZOB,12:07,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c05,26,Bahnhofstraße,12:09,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c05,27,Platz der Freiheit,12:12,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c05,28,Steinbecker-Brücke,12:15,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c06,1,ZOB,12:12,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c06,26,Bahnhofstraße,12:14,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c06,27,Platz der Freiheit,12:17,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c06,28,Steinbecker-Brücke,12:20,S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c07,1,ZOB,13:17,"nur Montag, Mittwoch, Donnerstag, Freitag; S: verkehrt nur an Schultagen",63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c07,26,Bahnhofstraße,13:19,"nur Montag, Mittwoch, Donnerstag, Freitag; S: verkehrt nur an Schultagen",63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c07,27,Platz der Freiheit,13:22,"nur Montag, Mittwoch, Donnerstag, Freitag; S: verkehrt nur an Schultagen",63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c07,28,Steinbecker-Brücke,13:25,"nur Montag, Mittwoch, Donnerstag, Freitag; S: verkehrt nur an Schultagen",63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c08,1,ZOB,13:17,nur Dienstag; S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c08,26,Bahnhofstraße,13:19,nur Dienstag; S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c08,27,Platz der Freiheit,13:22,nur Dienstag; S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c08,28,Steinbecker-Brücke,13:25,nur Dienstag; S: verkehrt nur an Schultagen,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c09,1,ZOB,13:17,,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c09,26,Bahnhofstraße,13:19,,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c09,27,Platz der Freiheit,13:22,,63
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p63t1c09,28,Steinbecker-Brücke,13:27,,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c10,1,ZOB,13:17,nur Dienstag; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c10,26,Bahnhofstraße,13:19,nur Dienstag; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c10,27,Platz der Freiheit,13:22,nur Dienstag; F: verkehrt nur in den Ferien,63
+127,week,"ZOB -> Stahlbrode, Am Sund",127-week-p63t1c10,28,Steinbecker-Brücke,13:25,nur Dienstag; F: verkehrt nur in den Ferien,63
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,10,Medigreif,13:30,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,11,Volksstadion,13:31,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,12,Ostseeviertel 1,13:32,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,13,Ostseeviertel 2,13:33,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,14,Helsinkiring,13:35,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,15,Tolstoistraße,13:37,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,19,Schönwalde 2,13:39,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,20,Schönwalde 1,13:41,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,21,Ärztehaus,13:42,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,22,Lomonossowallee,13:44,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,23,ZOB,13:56,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,24,ZOB,14:00,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,25,Bahnhofstraße,14:02,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,26,Platz der Freiheit,14:04,S: verkehrt nur an Schultagen,64
+127,week,"Medigreif -> Riems, Wendeschleife",127-week-p64t1c01,27,Steinbecker-Brücke,14:06,S: verkehrt nur an Schultagen,64
+127,week,"Schönwalde 2 -> Neuenkirchen, Schule",127-week-p64t1c02,5,Schönwalde 2,14:50,"nur Montag, Dienstag, Mittwoch, Donnerstag; S: verkehrt nur an Schultagen; V: verkehrt weiter auf den Linien 123 und 125",64
+127,week,"Schönwalde 2 -> Neuenkirchen, Schule",127-week-p64t1c02,26,Platz der Freiheit,15:05,"nur Montag, Dienstag, Mittwoch, Donnerstag; S: verkehrt nur an Schultagen; V: verkehrt weiter auf den Linien 123 und 125",64
+127,week,"Schönwalde 2 -> Neuenkirchen, Schule",127-week-p64t1c02,27,Steinbecker-Brücke,15:09,"nur Montag, Dienstag, Mittwoch, Donnerstag; S: verkehrt nur an Schultagen; V: verkehrt weiter auf den Linien 123 und 125",64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,2,Bahnhof Süd,15:45,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,3,Ärztehaus,15:47,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,4,Schönwalde 1,15:48,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,5,Schönwalde 2,15:50,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,6,Tolstoistraße,15:52,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,7,Helsinkiring,15:54,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,9,Ostseeviertel 2,15:56,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,12,Ostseeviertel 1,15:57,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,16,Volksstadion,15:58,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,17,Am St.Georgsfeld,15:59,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,18,An den Wurthen,16:00,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,26,Platz der Freiheit,16:01,S: verkehrt nur an Schultagen,64
+127,week,"Bahnhof Süd -> Riems, Wendeschleife",127-week-p64t1c03,27,Steinbecker-Brücke,16:05,S: verkehrt nur an Schultagen,64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c04,0,ZOB,15:47,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c04,25,Bahnhofstraße,15:49,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c04,26,Platz der Freiheit,15:52,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c04,27,Steinbecker-Brücke,15:55,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c05,0,ZOB,17:47,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c05,25,Bahnhofstraße,17:49,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c05,26,Platz der Freiheit,17:52,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,week,"ZOB -> Riems, Wendeschleife",127-week-p64t1c05,27,Steinbecker-Brücke,17:55,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,0,ZOB,10:15,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,1,Hans-Beimler-Straße,10:23,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,2,Bahnhof Süd,10:26,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,3,Ärztehaus,10:29,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,4,Schönwalde 1,10:30,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,5,Schönwalde 2,10:32,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,6,Tolstoistraße,10:35,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,7,Helsinkiring,10:37,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,9,Ostseeviertel 2,10:40,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,12,Ostseeviertel 1,10:41,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,16,Volksstadion,10:42,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,17,Am St.Georgsfeld,10:43,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,18,An den Wurthen,10:45,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,26,Platz der Freiheit,10:46,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c06,27,Steinbecker-Brücke,10:50,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c07,0,ZOB,13:10,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c07,25,Bahnhofstraße,13:12,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c07,26,Platz der Freiheit,13:15,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,sat,"ZOB -> Neuenkirchen, EKZ",127-sat-p64t1c07,27,Steinbecker-Brücke,13:18,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),64
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c01,29,Steinbecker-Brücke,07:14,S: verkehrt nur an Schultagen,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c01,31,Goethestraße,07:19,S: verkehrt nur an Schultagen,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c01,32,Bahnhofstraße,07:21,S: verkehrt nur an Schultagen,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c01,33,ZOB,07:24,S: verkehrt nur an Schultagen,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c02,29,Steinbecker-Brücke,07:18,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c02,31,Goethestraße,07:22,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c02,32,Bahnhofstraße,07:23,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c02,33,ZOB,07:24,A: verkehrt nicht am 24. und 31.12.; F: verkehrt nur in den Ferien,65
+127,week,Wampen -> Bahnhof Süd,127-week-p65t1c03,29,Steinbecker-Brücke,07:22,S: verkehrt nur an Schultagen,65
+127,week,Wampen -> Bahnhof Süd,127-week-p65t1c03,30,Platz der Freiheit,07:25,S: verkehrt nur an Schultagen,65
+127,week,Wampen -> Bahnhof Süd,127-week-p65t1c03,37,Medigreif,07:32,S: verkehrt nur an Schultagen,65
+127,week,Wampen -> Bahnhof Süd,127-week-p65t1c03,43,Schönwalde 2,07:37,S: verkehrt nur an Schultagen,65
+127,week,Wampen -> Bahnhof Süd,127-week-p65t1c03,45,Ärztehaus,07:41,S: verkehrt nur an Schultagen,65
+127,week,Wampen -> Bahnhof Süd,127-week-p65t1c03,46,Bahnhof Süd,07:45,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,29,Steinbecker-Brücke,07:21,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,30,Platz der Freiheit,07:26,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,34,An den Wurthen,07:29,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,35,Am St.Georgsfeld,07:32,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,38,Volksstadion,07:34,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,39,Ostseeviertel 1,07:36,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,40,Ostseeviertel 2,07:38,S: verkehrt nur an Schultagen,65
+127,week,"Neuenkirchen, Schule -> Helsinkiring",127-week-p65t1c04,41,Helsinkiring,07:40,S: verkehrt nur an Schultagen,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c05,29,Steinbecker-Brücke,08:41,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c05,31,Goethestraße,08:46,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c05,32,Bahnhofstraße,08:48,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c05,33,ZOB,08:51,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c06,29,Steinbecker-Brücke,09:25,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c06,31,Goethestraße,09:30,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c06,32,Bahnhofstraße,09:32,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c06,33,ZOB,09:35,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c07,29,Steinbecker-Brücke,10:43,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c07,31,Goethestraße,10:48,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c07,32,Bahnhofstraße,10:49,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c07,33,ZOB,10:51,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c08,29,Steinbecker-Brücke,13:37,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c08,31,Goethestraße,13:42,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c08,32,Bahnhofstraße,13:43,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c08,33,ZOB,13:45,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c09,29,Steinbecker-Brücke,13:37,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c09,31,Goethestraße,13:42,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c09,32,Bahnhofstraße,13:43,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c09,33,ZOB,13:45,A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,29,Steinbecker-Brücke,15:21,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,30,Platz der Freiheit,15:26,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,34,An den Wurthen,15:27,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,35,Am St.Georgsfeld,15:28,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,38,Volksstadion,15:29,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,39,Ostseeviertel 1,15:30,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,40,Ostseeviertel 2,15:31,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,41,Helsinkiring,15:32,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,42,Tolstoistraße,15:34,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,43,Schönwalde 2,15:36,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,44,Schönwalde 1,15:38,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,45,Ärztehaus,15:39,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,46,Bahnhof Süd,15:41,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c10,47,ZOB,15:47,nur Dienstag; A: verkehrt nicht am 24. und 31.12.,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,29,Steinbecker-Brücke,15:21,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,30,Platz der Freiheit,15:26,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,34,An den Wurthen,15:27,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,35,Am St.Georgsfeld,15:28,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,38,Volksstadion,15:29,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,39,Ostseeviertel 1,15:30,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,40,Ostseeviertel 2,15:31,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,41,Helsinkiring,15:32,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,42,Tolstoistraße,15:34,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,43,Schönwalde 2,15:36,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,44,Schönwalde 1,15:38,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,45,Ärztehaus,15:39,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,46,Bahnhof Süd,15:41,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Stahlbrode, Am Sund -> ZOB",127-week-p65t1c11,47,ZOB,15:47,nur Dienstag; F: verkehrt nur in den Ferien,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,29,Steinbecker-Brücke,15:12,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,30,Platz der Freiheit,15:14,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,34,An den Wurthen,15:15,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,35,Am St.Georgsfeld,15:17,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,38,Volksstadion,15:19,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,39,Ostseeviertel 1,15:21,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,40,Ostseeviertel 2,15:22,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,41,Helsinkiring,15:23,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,42,Tolstoistraße,15:24,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,43,Schönwalde 2,15:26,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,44,Schönwalde 1,15:28,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,45,Ärztehaus,15:30,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,46,Bahnhof Süd,15:32,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p65t1c12,47,ZOB,15:38,,65
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,22,Steinbecker-Brücke,15:12,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,23,Platz der Freiheit,15:14,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,27,An den Wurthen,15:15,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,28,Am St.Georgsfeld,15:17,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,31,Volksstadion,15:19,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,32,Ostseeviertel 1,15:21,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,33,Ostseeviertel 2,15:22,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,34,Helsinkiring,15:23,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,35,Tolstoistraße,15:24,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,36,Schönwalde 2,15:26,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,37,Schönwalde 1,15:28,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,38,Ärztehaus,15:30,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,39,Bahnhof Süd,15:32,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c01,40,ZOB,15:38,"nur Montag, Mittwoch, Donnerstag, Freitag; A: verkehrt nicht am 24. und 31.12.",66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c02,22,Steinbecker-Brücke,17:27,F: verkehrt nur in den Ferien,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c02,24,Goethestraße,17:30,F: verkehrt nur in den Ferien,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c02,25,Bahnhofstraße,17:33,F: verkehrt nur in den Ferien,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c02,26,ZOB,17:37,F: verkehrt nur in den Ferien,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,22,Steinbecker-Brücke,17:27,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,23,Platz der Freiheit,17:32,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,27,An den Wurthen,17:33,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,28,Am St.Georgsfeld,17:34,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,31,Volksstadion,17:35,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,32,Ostseeviertel 1,17:36,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,33,Ostseeviertel 2,17:37,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,34,Helsinkiring,17:39,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,35,Tolstoistraße,17:41,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,36,Schönwalde 2,17:42,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,37,Schönwalde 1,17:43,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,38,Ärztehaus,17:44,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> Bahnhof Süd",127-week-p66t1c03,39,Bahnhof Süd,17:46,A: verkehrt nicht am 24. und 31.12.; S: verkehrt nur an Schultagen,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c04,22,Steinbecker-Brücke,18:42,A: verkehrt nicht am 24. und 31.12.,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c04,24,Goethestraße,18:47,A: verkehrt nicht am 24. und 31.12.,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c04,25,Bahnhofstraße,18:48,A: verkehrt nicht am 24. und 31.12.,66
+127,week,"Riems, Wendeschleife -> ZOB",127-week-p66t1c04,26,ZOB,18:50,A: verkehrt nicht am 24. und 31.12.,66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c06,22,Steinbecker-Brücke,11:06,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c06,24,Goethestraße,11:11,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c06,25,Bahnhofstraße,11:13,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c06,26,ZOB,11:16,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,22,Steinbecker-Brücke,13:38,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,23,Platz der Freiheit,13:43,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,27,An den Wurthen,13:44,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,28,Am St.Georgsfeld,13:45,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,31,Volksstadion,13:46,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,32,Ostseeviertel 1,13:47,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,33,Ostseeviertel 2,13:48,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,34,Helsinkiring,13:50,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,35,Tolstoistraße,13:52,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,36,Schönwalde 2,13:53,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,37,Schönwalde 1,13:54,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,38,Ärztehaus,13:55,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,39,Bahnhof Süd,13:57,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66
+127,sat,"Neuenkirchen, EKZ -> ZOB",127-sat-p66t1c07,40,ZOB,14:05,A: verkehrt nicht am 24. und 31.12.; K: Kleinbus (eingeschränkte Platzanzahl),66

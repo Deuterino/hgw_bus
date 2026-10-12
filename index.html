@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Greifswald bus planner</title>
+<style>
+  :root {
+    --bg: #f4f5f7; --card: #ffffff; --text: #1c2026; --muted: #626b78; --border: #d5d9e0;
+    --accent: #0b6e4f; --accent-text: #ffffff; --chip: #e3f1ec; --warn: #9a3b00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15181c; --card: #1f2329; --text: #e8eaed; --muted: #9aa3af; --border: #363c45;
+      --accent: #3fb68b; --accent-text: #0d1512; --chip: #24362f; --warn: #ffb37a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 16px; }
+  h1 { font-size: 1.35rem; margin: 8px 0 2px; }
+  .sub { color: var(--muted); font-size: .85rem; margin: 0 0 14px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px; margin-bottom: 12px; }
+  label, .label { display: block; font-size: .8rem; font-weight: 600; color: var(--muted); margin-bottom: 4px; }
+  select, input[type=text] { width: 100%; font: inherit; color: var(--text); background: var(--bg);
+         border: 1px solid var(--border); border-radius: 8px; padding: 9px 10px; min-height: 42px; }
+  input[type=text] { font-variant-numeric: tabular-nums; }
+  input.bad { border-color: var(--warn); }
+  .row { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 10px; margin-bottom: 12px; }
+  .row > div { min-width: 0; }
+  .row.four { grid-template-columns: 1fr 1fr; }
+  @media (max-width: 420px) {
+    .row:not(.four) { grid-template-columns: 1fr 1fr; }
+    .row:not(.four) > div:first-child { grid-column: span 2; }
+  }
+  .field { margin-bottom: 12px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .chips:empty { display: none; }
+  .chip { background: var(--chip); border-radius: 999px; padding: 4px 6px 4px 12px; font-size: .9rem;
+          display: inline-flex; align-items: center; gap: 4px; }
+  .chip button { border: 0; background: none; color: var(--muted); font-size: 1.1rem; line-height: 1;
+          cursor: pointer; padding: 2px 6px; border-radius: 50%; }
+  .chip button:hover { color: var(--text); }
+  .swap { display: flex; justify-content: center; margin: -4px 0 8px; }
+  .swap button { border: 1px solid var(--border); background: var(--card); color: var(--text); border-radius: 999px;
+          padding: 4px 14px; font: inherit; font-size: .85rem; cursor: pointer; }
+  details { margin-bottom: 12px; }
+  summary { cursor: pointer; color: var(--muted); font-size: .9rem; margin-bottom: 10px; }
+  button.go { width: 100%; border: 0; border-radius: 8px; background: var(--accent); color: var(--accent-text);
+          font: inherit; font-weight: 600; padding: 12px; cursor: pointer; }
+  button.go:disabled { opacity: .5; cursor: default; }
+  #status { color: var(--muted); font-size: .9rem; margin: 4px 2px 10px; }
+  #status.error { color: var(--warn); }
+  .journey .head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-bottom: 8px; }
+  .journey .times { font-size: 1.2rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .journey .dur { font-weight: 600; }
+  .journey .kind { color: var(--muted); font-size: .9rem; }
+  .leg { display: grid; grid-template-columns: auto 1fr; gap: 2px 10px; padding: 6px 0; border-top: 1px solid var(--border); }
+  .badge { grid-row: span 3; align-self: start; background: var(--accent); color: var(--accent-text); border-radius: 6px;
+          padding: 2px 8px; font-weight: 700; font-size: .9rem; min-width: 2.6em; text-align: center; }
+  .leg .stop { font-variant-numeric: tabular-nums; }
+  .leg .stop b { margin-right: 6px; }
+  .leg .meta, .wait, .note { color: var(--muted); font-size: .82rem; }
+  .wait { padding: 4px 0; border-top: 1px dashed var(--border); }
+  .note { color: var(--warn); }
+  footer { color: var(--muted); font-size: .78rem; margin: 18px 2px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Greifswald bus planner</h1>
+  <p class="sub" id="validity"></p>
+
+  <form class="card" id="form">
+    <div class="row">
+      <div><label for="day">Day</label>
+        <select id="day">
+          <option value="week">Monday – Friday</option>
+          <option value="sat">Saturday</option>
+          <option value="sun">Sunday / holiday</option>
+        </select></div>
+      <div><label for="from">Leave from</label><input type="text" id="from" inputmode="numeric" placeholder="HH:MM" maxlength="5" autocomplete="off"></div>
+      <div><label for="to">Leave until</label><input type="text" id="to" inputmode="numeric" placeholder="HH:MM" maxlength="5" autocomplete="off"></div>
+    </div>
+
+    <div class="field">
+      <label for="startSel">Start stops (any of these)</label>
+      <select id="startSel"></select>
+      <div class="chips" id="startChips"></div>
+    </div>
+    <div class="swap"><button type="button" id="swap">⇅ swap start and end</button></div>
+    <div class="field">
+      <label for="endSel">End stops (any of these)</label>
+      <select id="endSel"></select>
+      <div class="chips" id="endChips"></div>
+    </div>
+
+    <details>
+      <summary>More options</summary>
+      <div class="row four">
+        <div><label for="sort">Sort by</label>
+          <select id="sort">
+            <option value="duration">Shortest total time</option>
+            <option value="arrival">Earliest arrival</option>
+            <option value="departure">Departure time</option>
+          </select></div>
+        <div><label for="top">Options shown</label>
+          <select id="top"><option>3</option><option selected>5</option><option>10</option><option>20</option></select></div>
+        <div><label for="maxTransfers">Transfers allowed</label>
+          <select id="maxTransfers"><option value="0">None (direct only)</option><option value="1">Up to 1</option>
+            <option value="2" selected>Up to 2</option><option value="3">Up to 3</option></select></div>
+        <div><label for="minTransfer">Time to change bus</label>
+          <select id="minTransfer"><option value="0">0 min</option><option value="1">1 min</option>
+            <option value="2" selected>2 min</option><option value="3">3 min</option><option value="5">5 min</option>
+            <option value="10">10 min</option></select></div>
+      </div>
+    </details>
+
+    <button class="go" id="go" disabled>Loading timetable…</button>
+  </form>
+
+  <div id="status"></div>
+  <div id="results"></div>
+
+  <footer>
+    Unofficial tool built from the published Stadtbus Greifswald timetable; no live data, no guarantee.
+    Transfers are only considered between buses at a stop of the same name.
+  </footer>
+</main>
+
+<script src="router.js"></script>
+<script>
+"use strict";
+// Update these two when a new timetable is converted.
+const LINES = ["10", "11", "20", "21", "22", "30", "31", "40", "41", "42", "50"];
+const VALID_FROM = "04.10.2026";
+
+const $ = id => document.getElementById(id);
+const el = (tag, cls, text) => {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text !== undefined) e.textContent = text;
+  return e;
+};
+const DAY_NAMES = { week: "Monday – Friday", sat: "Saturday", sun: "Sunday / holiday" };
+
+let rows = [];
+const tripsByDay = {};
+const chosen = { start: [], end: [] };
+
+function store(key, value) { try { localStorage.setItem("busplan." + key, JSON.stringify(value)); } catch (e) {} }
+function recall(key, fallback) {
+  try { const v = JSON.parse(localStorage.getItem("busplan." + key)); return v ?? fallback; } catch (e) { return fallback; }
+}
+
+function renderChips(which) {
+  const box = $(which + "Chips");
+  box.replaceChildren();
+  for (const stop of chosen[which]) {
+    const chip = el("span", "chip", stop);
+    const x = el("button", null, "×");
+    x.type = "button";
+    x.setAttribute("aria-label", "Remove " + stop);
+    x.onclick = () => { chosen[which] = chosen[which].filter(s => s !== stop); renderChips(which); };
+    chip.append(x);
+    box.append(chip);
+  }
+  store(which, chosen[which]);
+}
+
+function fillStopSelect(which, stops) {
+  const sel = $(which + "Sel");
+  sel.replaceChildren(new Option("Add a stop…", ""));
+  for (const s of stops) sel.add(new Option(s, s));
+  sel.onchange = () => {
+    if (sel.value && !chosen[which].includes(sel.value)) { chosen[which].push(sel.value); renderChips(which); }
+    sel.value = "";
+  };
+}
+
+// "7", "730", "7:30", "07.30" -> "07:30"; null if it is not a time of day
+function normalizeTime(text) {
+  const m = text.trim().match(/^(\d{1,2})(?:[:.,h ]?(\d{2}))?$/);
+  if (!m) return null;
+  const h = +m[1], min = +(m[2] ?? 0);
+  return h < 24 && min < 60 ? BusRouter.fmt(h * 60 + min) : null;
+}
+
+function readTime(id) {
+  const t = normalizeTime($(id).value);
+  $(id).classList.toggle("bad", t === null);
+  if (t !== null) $(id).value = t;
+  return t;
+}
+
+function setDefaults() {
+  for (const id of ["from", "to"]) $(id).addEventListener("change", () => readTime(id));
+  const now = new Date();
+  $("day").value = now.getDay() === 0 ? "sun" : now.getDay() === 6 ? "sat" : "week";
+  const start = now.getHours() * 60 + now.getMinutes();
+  $("from").value = BusRouter.fmt(start);
+  $("to").value = BusRouter.fmt(Math.min(start + 120, 23 * 60 + 59));
+  for (const id of ["sort", "top", "maxTransfers", "minTransfer"]) {
+    const v = recall(id, null);
+    if (v !== null && [...$(id).options].some(o => o.value === v)) $(id).value = v;
+    $(id).addEventListener("change", () => store(id, $(id).value));
+  }
+}
+
+function status(text, isError) {
+  $("status").textContent = text;
+  $("status").className = isError ? "error" : "";
+}
+
+function renderJourney(j) {
+  const card = el("div", "card journey");
+  const head = el("div", "head");
+  const ride = j.legs.reduce((sum, l) => sum + l.alightTime - l.boardTime, 0);
+  const total = j.arrive - j.depart;
+  const n = j.legs.length - 1;
+  head.append(el("span", "times", BusRouter.fmt(j.depart) + " → " + BusRouter.fmt(j.arrive)),
+              el("span", "dur", total + " min"),
+              el("span", "kind", n === 0 ? "direct" : n + (n === 1 ? " transfer, " : " transfers, ") + (total - ride) + " min waiting"));
+  card.append(head);
+  j.legs.forEach((leg, i) => {
+    if (i) card.append(el("div", "wait", "wait " + (leg.boardTime - j.legs[i - 1].alightTime) + " min at " + leg.boardStop));
+    const row = el("div", "leg");
+    row.append(el("span", "badge", leg.line));
+    for (const [time, stop] of [[leg.boardTime, leg.boardStop], [leg.alightTime, leg.alightStop]]) {
+      const line = el("div", "stop");
+      line.append(el("b", null, BusRouter.fmt(time)), stop);
+      row.append(line);
+    }
+    row.append(el("div", "meta", (leg.alightTime - leg.boardTime) + " min, " + leg.nStops + (leg.nStops === 1 ? " stop" : " stops")
+                                 + ", direction " + leg.direction.split(" -> ").pop()));
+    card.append(row);
+    if (leg.note) card.append(el("div", "note", "Note " + leg.note));
+  });
+  return card;
+}
+
+function search(event) {
+  event.preventDefault();
+  $("results").replaceChildren();
+  const day = $("day").value, from = readTime("from"), to = readTime("to");
+  if (!chosen.start.length || !chosen.end.length) return status("Choose at least one start stop and one end stop.", true);
+  const both = chosen.start.filter(s => chosen.end.includes(s));
+  if (both.length) return status(both.join(", ") + " is both a start and an end stop.", true);
+  if (!from || !to) return status("Enter both times as HH:MM, for example 07:30.", true);
+  if (BusRouter.toMin(to) < BusRouter.toMin(from)) return status("The time range ends before it starts.", true);
+
+  const trips = tripsByDay[day] ??= BusRouter.buildTrips(rows, day);
+  const journeys = BusRouter.findRoutes(trips, from, to, chosen.start, chosen.end, {
+    maxTransfers: +$("maxTransfers").value, minTransfer: +$("minTransfer").value, sort: $("sort").value });
+  if (!journeys.length) {
+    const served = new Set(trips.flatMap(t => t.stops));
+    const missing = [...chosen.start, ...chosen.end].filter(s => !served.has(s));
+    return status("No connection found for " + DAY_NAMES[day] + ", leaving " + from + "–" + to + "."
+      + (missing.length ? " Not served on this day: " + missing.join(", ") + "." : ""), true);
+  }
+  const top = +$("top").value;
+  status(Math.min(top, journeys.length) + " of " + journeys.length + " options for " + DAY_NAMES[day] + ", leaving " + from + "–" + to);
+  $("results").append(...journeys.slice(0, top).map(renderJourney));
+}
+
+async function init() {
+  $("validity").textContent = "Stadtbus timetable valid from " + VALID_FROM;
+  setDefaults();
+  try {
+    const texts = await Promise.all(LINES.map(async line => {
+      const res = await fetch("csv/linie_" + line + ".csv");
+      if (!res.ok) throw new Error("linie_" + line + ".csv: HTTP " + res.status);
+      return res.text();
+    }));
+    rows = texts.flatMap(BusRouter.parseCsv);
+  } catch (e) {
+    $("go").textContent = "Timetable not available";
+    return status("Could not load the timetable (" + e.message + ").", true);
+  }
+  const stops = [...new Set(rows.map(r => r.stop))].sort((a, b) => a.localeCompare(b, "de"));
+  for (const which of ["start", "end"]) {
+    fillStopSelect(which, stops);
+    chosen[which] = recall(which, []).filter(s => stops.includes(s));
+    renderChips(which);
+  }
+  $("swap").onclick = () => { [chosen.start, chosen.end] = [chosen.end, chosen.start]; renderChips("start"); renderChips("end"); };
+  $("form").addEventListener("submit", search);
+  $("go").textContent = "Find connections";
+  $("go").disabled = false;
+}
+init();
+</script>
+</body>
+</html>

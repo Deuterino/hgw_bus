@@ -23,7 +23,7 @@ from pathlib import Path
 
 import pdfplumber
 
-PDF_DIR = Path.home() / "Desktop" / "bus"
+PDF_DIR = Path(__file__).parent  # the Linie_*.pdf sit next to this script, the CSVs are in csv/
 TIME_RE = re.compile(r"^\d\d:\d\d$")
 SKIP_TOKENS = {"...", ":"}
 DAY_KEYS = {"montagfreitag": "week", "samstag": "sat", "sonnundfeiertage": "sun", "sonntag": "sun"}

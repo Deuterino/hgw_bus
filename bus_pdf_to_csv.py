@@ -17,7 +17,7 @@ from pathlib import Path
 
 import pdfplumber
 
-PDF_DIR = Path.home() / "Desktop" / "bus"
+PDF_DIR = Path(__file__).parent  # the Linie_*.pdf sit next to this script, the CSVs go to csv/
 FIELDS = ["line", "day", "direction", "trip_id", "seq", "stop", "time", "note", "page"]
 
 TIME_RE = re.compile(r"^\d\d:\d\d$")

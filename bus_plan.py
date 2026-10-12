@@ -24,7 +24,7 @@ TOP = 5                             # number of options to print
 MAX_TRANSFERS = 2
 MIN_TRANSFER = 2                    # minutes needed to change bus
 SORT = "duration"                   # duration (boarding to arrival), arrival or departure
-CSV_DIR = Path.home() / "Desktop" / "bus" / "csv"
+CSV_DIR = Path(__file__).parent / "csv"
 
 # %% Functions
 import csv
@@ -142,7 +142,8 @@ def find_routes(day, t_from, t_to, starts, ends, max_transfers=2, min_transfer=2
     """Best journeys leaving a start stop within [t_from, t_to] (HH:MM) on a day type (week/sat/sun).
 
     starts / ends are lists of stop names or patterns. A journey is kept unless another one leaves
-    no earlier, arrives no later and needs no more transfers. Returns a list of Journey sorted by
+    no earlier, arrives no later and needs no more transfers (a journey using a trip with a day
+    restriction never displaces one without). Returns a list of Journey sorted by
     `sort`: duration (boarding to arrival), arrival or departure.
     """
     if day not in DAYS:
@@ -156,25 +157,31 @@ def find_routes(day, t_from, t_to, starts, ends, max_transfers=2, min_transfer=2
     if t1 < t0:
         raise ValueError("time range ends before it starts")
 
-    connections = sorted((t.times[i], t.times[i + 1], ti, i)
-                         for ti, t in enumerate(trips) for i in range(len(t.stops) - 1))
-    departures = sorted({t.times[i] for t in trips for i in range(len(t.stops) - 1)
-                         if t.stops[i] in starts and t0 <= t.times[i] <= t1})
-
+    # Searched twice: over all trips, and over only the trips that run every day of the day type.
+    # A trip limited to school days, holidays or single weekdays must not hide one that always runs.
     found = {}
-    for dep in departures:
-        for j in scan(connections, trips, starts, ends, dep, max_transfers + 1, min_transfer).values():
-            if j.depart <= t1:
-                found[tuple(j.legs)] = j
+    for subset in (trips, [t for t in trips if not restrictions(t.note)]):
+        connections = sorted((t.times[i], t.times[i + 1], ti, i)
+                             for ti, t in enumerate(subset) for i in range(len(t.stops) - 1))
+        departures = sorted({t.times[i] for t in subset for i in range(len(t.stops) - 1)
+                             if t.stops[i] in starts and t0 <= t.times[i] <= t1})
+        for dep in departures:
+            for j in scan(connections, subset, starts, ends, dep, max_transfers + 1, min_transfer).values():
+                if j.depart <= t1:
+                    found[tuple(j.legs)] = j
     journeys = list(found.values())
+
+    def limited(j):
+        return any(restrictions(leg.note) for leg in j.legs)
 
     def dominated(a):
         return any(b is not a and b.depart >= a.depart and b.arrive <= a.arrive and len(b.legs) <= len(a.legs)
-                   and (b.depart, b.arrive, len(b.legs)) != (a.depart, a.arrive, len(a.legs)) for b in journeys)
+                   and (b.depart, b.arrive, len(b.legs)) != (a.depart, a.arrive, len(a.legs))
+                   and not (limited(b) and not limited(a)) for b in journeys)
 
     best, seen = [], set()
     for j in journeys:
-        key = (j.depart, j.arrive, len(j.legs))
+        key = (j.depart, j.arrive, len(j.legs), limited(j))
         if not dominated(j) and key not in seen:  # equal alternatives: keep one
             seen.add(key)
             best.append(j)
@@ -182,6 +189,18 @@ def find_routes(day, t_from, t_to, starts, ends, max_transfers=2, min_transfer=2
             "arrival": lambda j: (j.arrive, -j.depart, len(j.legs)),
             "departure": lambda j: (j.depart, j.arrive, len(j.legs))}
     return sorted(best, key=keys[sort])
+
+
+def restrictions(note):
+    """Day restrictions hidden in a trip's footnotes: listed under Monday - Friday, but not run every weekday."""
+    out = []
+    if "nur an Schultagen" in note:
+        out.append("on school days only")
+    if "nur in den Ferien" in note:
+        out.append("in school holidays only")
+    if note.startswith("nur "):
+        out.append("only on " + note[4:].split(";")[0])
+    return out
 
 
 def describe(journey, rank=None):
@@ -192,6 +211,9 @@ def describe(journey, rank=None):
     kind = "direct" if len(legs) == 1 else f"{len(legs) - 1} transfer{'s' if len(legs) > 2 else ''}, {total - ride} min waiting"
     head = f"{fmt(journey.depart)} -> {fmt(journey.arrive)}   {total} min   ({kind})"
     lines = [f"{rank:2d}. {head}" if rank is not None else head]
+    for leg in legs:
+        if restrictions(leg.note):
+            lines.append(f"      !! Linie {leg.line} runs {', '.join(restrictions(leg.note))} - not every weekday")
     for n, leg in enumerate(legs):
         if n:
             lines.append(f"      wait {leg.board_time - legs[n - 1].alight_time} min at {leg.board_stop}")

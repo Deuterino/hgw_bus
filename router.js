@@ -107,36 +107,46 @@ const BusRouter = (() => {
     return journeys;
   }
 
+  // true if the trip's footnotes limit it to school days, school holidays or single weekdays
+  function isLimited(note) {
+    return /nur an Schultagen|nur in den Ferien|^nur /.test(note);
+  }
+
   // Best journeys leaving one of `starts` within [tFrom, tTo] ("HH:MM") and reaching one of `ends`.
   function findRoutes(trips, tFrom, tTo, starts, ends, opts = {}) {
     const maxTransfers = opts.maxTransfers ?? 2, minTransfer = opts.minTransfer ?? 2, sort = opts.sort ?? "duration";
     starts = new Set(starts); ends = new Set(ends);
     const t0 = toMin(tFrom), t1 = toMin(tTo);
 
-    const connections = [];
-    const departures = new Set();
-    trips.forEach((t, ti) => {
-      for (let i = 0; i < t.stops.length - 1; i++) {
-        connections.push([t.times[i], t.times[i + 1], ti, i]);
-        if (starts.has(t.stops[i]) && t0 <= t.times[i] && t.times[i] <= t1) departures.add(t.times[i]);
-      }
-    });
-    connections.sort((a, b) => a[0] - b[0] || a[1] - b[1] || a[2] - b[2] || a[3] - b[3]);
-
+    // Searched twice: over all trips, and over only the trips that run every day of the day type.
+    // A trip limited to school days, holidays or single weekdays must not hide one that always runs.
     const found = new Map();
-    for (const dep of [...departures].sort((a, b) => a - b)) {
-      for (const j of scan(connections, trips, starts, ends, dep, maxTransfers + 1, minTransfer)) {
-        if (j.depart <= t1) found.set(JSON.stringify(j.legs), j);
+    for (const subset of [trips, trips.filter(t => !isLimited(t.note))]) {
+      const connections = [];
+      const departures = new Set();
+      subset.forEach((t, ti) => {
+        for (let i = 0; i < t.stops.length - 1; i++) {
+          connections.push([t.times[i], t.times[i + 1], ti, i]);
+          if (starts.has(t.stops[i]) && t0 <= t.times[i] && t.times[i] <= t1) departures.add(t.times[i]);
+        }
+      });
+      connections.sort((a, b) => a[0] - b[0] || a[1] - b[1] || a[2] - b[2] || a[3] - b[3]);
+      for (const dep of [...departures].sort((a, b) => a - b)) {
+        for (const j of scan(connections, subset, starts, ends, dep, maxTransfers + 1, minTransfer)) {
+          if (j.depart <= t1) found.set(JSON.stringify(j.legs), j);
+        }
       }
     }
     const journeys = [...found.values()];
 
+    const limited = j => j.legs.some(l => isLimited(l.note));
     const dominated = a => journeys.some(b => b !== a && b.depart >= a.depart && b.arrive <= a.arrive
       && b.legs.length <= a.legs.length
-      && !(b.depart === a.depart && b.arrive === a.arrive && b.legs.length === a.legs.length));
+      && !(b.depart === a.depart && b.arrive === a.arrive && b.legs.length === a.legs.length)
+      && !(limited(b) && !limited(a)));
     const best = [], seen = new Set();
     for (const j of journeys) {
-      const key = j.depart + "|" + j.arrive + "|" + j.legs.length;
+      const key = j.depart + "|" + j.arrive + "|" + j.legs.length + "|" + limited(j);
       if (!dominated(j) && !seen.has(key)) { seen.add(key); best.push(j); }  // equal alternatives: keep one
     }
     const keys = {

@@ -64,6 +64,8 @@
   .leg .meta, .wait, .note { color: var(--muted); font-size: .82rem; }
   .wait { padding: 4px 0; border-top: 1px dashed var(--border); }
   .note { color: var(--warn); }
+  .advisory { color: var(--warn); border: 1px solid var(--warn); border-radius: 8px; padding: 6px 10px;
+          font-size: .9rem; font-weight: 600; margin-bottom: 8px; }
   footer { color: var(--muted); font-size: .78rem; margin: 18px 2px; }
 </style>
 </head>
@@ -124,7 +126,8 @@
   <div id="results"></div>
 
   <footer>
-    Unofficial tool built from the published Stadtbus Greifswald timetable; no live data, no guarantee.
+    Unofficial tool built from the published Stadtbus Greifswald and regional bus timetables; no live data, no guarantee.
+    Check the notes on a journey: some regional trips run only on school days or need booking by phone.
     Transfers are only considered between buses at a stop of the same name.
   </footer>
 </main>
@@ -133,8 +136,8 @@
 <script>
 "use strict";
 // Update these two when a new timetable is converted.
-const LINES = ["10", "11", "20", "21", "22", "30", "31", "40", "41", "42", "50"];
-const VALID_FROM = "04.10.2026";
+const LINES = ["10", "11", "20", "21", "22", "30", "31", "40", "41", "42", "50", "109", "126", "127", "135", "138", "271"];
+const VALIDITY = "Stadtbus timetable from 04.10.2026; regional lines 109, 126, 127, 135, 138 (from 24.08.2026) and 271, Greifswald stops only";
 
 const $ = id => document.getElementById(id);
 const el = (tag, cls, text) => {
@@ -213,6 +216,17 @@ function status(text, isError) {
   $("status").className = isError ? "error" : "";
 }
 
+// Day restrictions hidden in a trip's footnotes: such a trip is listed under Monday - Friday but does not run every weekday.
+const WEEKDAYS = { Montag: "Mon", Dienstag: "Tue", Mittwoch: "Wed", Donnerstag: "Thu", Freitag: "Fri" };
+function restrictions(note) {
+  const out = [];
+  if (/nur an Schultagen/.test(note)) out.push("on school days only");
+  if (/nur in den Ferien/.test(note)) out.push("in school holidays only");
+  const days = note.match(/^nur ([^;]+)/);
+  if (days) out.push("only on " + days[1].split(", ").map(d => WEEKDAYS[d] ?? d).join(", "));
+  return out;
+}
+
 function renderJourney(j) {
   const card = el("div", "card journey");
   const head = el("div", "head");
@@ -223,6 +237,10 @@ function renderJourney(j) {
               el("span", "dur", total + " min"),
               el("span", "kind", n === 0 ? "direct" : n + (n === 1 ? " transfer, " : " transfers, ") + (total - ride) + " min waiting"));
   card.append(head);
+  for (const leg of j.legs) {
+    const limits = restrictions(leg.note);
+    if (limits.length) card.append(el("div", "advisory", "⚠ Line " + leg.line + " runs " + limits.join(", ") + " – not every weekday"));
+  }
   j.legs.forEach((leg, i) => {
     if (i) card.append(el("div", "wait", "wait " + (leg.boardTime - j.legs[i - 1].alightTime) + " min at " + leg.boardStop));
     const row = el("div", "leg");
@@ -265,7 +283,7 @@ function search(event) {
 }
 
 async function init() {
-  $("validity").textContent = "Stadtbus timetable valid from " + VALID_FROM;
+  $("validity").textContent = VALIDITY;
   setDefaults();
   try {
     const texts = await Promise.all(LINES.map(async line => {
